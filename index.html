@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Norske Prompts – søk, filtrer og kopier gode norske/engelske prompts.">
+  <title>Norske Prompts</title>
+  <link rel="preload" href="./assets/prompts.json" as="fetch" crossorigin>
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="bar">
+        <h1>🇳🇴 Norske Prompts</h1>
+        <span class="badge">v1 • Netlify & GitHub Pages-klar</span>
+      </div>
+
+      <div class="controls">
+        <div class="search" role="search">
+          <input id="q" type="search" placeholder="Søk i titler og tekst …" aria-label="Søk">
+          <div class="right">
+            <select id="lang" aria-label="Språk">
+              <option value="no">Norsk</option>
+              <option value="en">English</option>
+            </select>
+            <button id="btnDrawer" class="btn ghost" aria-expanded="false" aria-controls="filtersLeft">Filter</button>
+          </div>
+        </div>
+
+        <div class="actions">
+          <button id="btnSelectAll" class="btn ghost" title="Velg alle filtre">Velg alle</button>
+          <button id="btnSelectNone" class="btn ghost" title="Fjern alle filtre">Fjern alle</button>
+          <button id="btnClear" class="btn" title="Nullstill søk og filtre">Nullstill</button>
+          <button id="btnExport" class="btn primary" title="Eksporter resultater til JSON">Eksporter</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container page">
+    <!-- Sidebar / filters -->
+    <aside id="filtersLeft" class="sidebar" aria-label="Filtre">
+      <div class="hdr">
+        <h3>Filtrer på kategorier</h3>
+        <div class="fine">
+          <label><input id="modeAnd" type="checkbox"> Match alle</label>
+        </div>
+      </div>
+
+      <div class="facet-search">
+        <input id="facetSearch" type="search" placeholder="Søk i kategorier …">
+      </div>
+
+      <div id="facetList" class="facet-list" role="group" aria-label="Tilgjengelige kategorier"></div>
+
+      <div class="preset">
+        <div class="fine" style="margin:10px 0 6px">Hurtigvalg</div>
+        <div id="presetBar" class="preset-bar"></div>
+      </div>
+
+      <!-- advanced toggles that app.js expects -->
+      <div class="fine" style="margin-top:12px">
+        <label><input id="forceNo" type="checkbox"> Vis alltid norsk tekst</label>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <section>
+      <div class="stats" id="stats">–</div>
+      <div id="grid" class="grid" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <template id="card-tpl">
+    <article class="card">
+      <h4 class="title">Tittel</h4>
+      <div class="tags"></div>
+      <pre class="prompt">Tekst / prompt…</pre>
+      <div class="row">
+        <button class="btn copy" type="button">Kopier</button>
+        <button class="btn insert" type="button">Kopier + “Svar på norsk”</button>
+      </div>
+    </article>
+  </template>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Bygget for GitHub Pages & Netlify. Statisk – ingen server nødvendig.</p>
+      <small>Data: <code>assets/prompts.json</code> • Kategorier: <code>assets/tags-map.json</code></small>
+    </div>
+  </footer>
+
+  <!-- App -->
+  <script defer src="./assets/app.js"></script>
+</body>
+</html>
