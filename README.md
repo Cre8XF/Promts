@@ -1,24 +1,47 @@
-# Norske Prompts (statisk)
 
-Ferdig, responsivt oppsett som fungerer på både GitHub Pages og Netlify.
+# Cre8Web Prompts – Ny struktur
 
-## Strukturen
-- `index.html` – appens hovedside (beholder ID-er som `app.js` forventer).
-- `assets/styles.css` – ny, responsiv stil.
-- `assets/app.js` – eksisterende logikk (uendret).
-- `assets/prompts.json` – data (uendret).
-- `assets/tags-map.json` – mapping/aliaser (uendret).
+Denne pakken inneholder en komplett frontend for å vise en promptsamling med **Hovedkategori → Underkategori**, søk, favoritter, språk (NO/EN) og AND/OR‑filter for tags.
 
-## Publisering
-### Netlify
-- Dra og slipp mappen i Netlify app, eller koble til repo.
-- Build settings: **Static site** (ingen build-kommando), publish directory: mappens rot.
+## Struktur
+```
+.
+├─ index.html
+├─ assets/
+│  ├─ css/style.css
+│  ├─ js/utils.js
+│  ├─ js/app.js
+│  ├─ data/prompts.json           ← legg din endelige fil her
+│  ├─ data/prompts.sample.json    ← fallback-demo
+│  └─ img/icon.svg
+```
 
-### GitHub Pages
-- Commit/push innholdet til en repo (f.eks. `main`-branch).
-- Settings → Pages → Source: `Deploy from a branch` → Branch: `main` → Folder: `/ (root)`.
-- Vent til GitHub Pages bygger, åpne URL-en.
+## Datastruktur (prompts.json)
+Hver prompt bør ha følgende felter:
+```json
+{
+  "id": "unik-id",
+  "act_no": "Tittel på norsk",
+  "act_en": "Title in English",
+  "prompt_no": "Selve prompten på norsk",
+  "prompt_en": "Prompt text in English",
+  "category": "Hovedkategori",
+  "subcategory": "Underkategori",
+  "tags": ["liste","med","tagger"]
+}
+```
+
+Feltene `category`/`subcategory` kan også hete `Hovedkategori`/`Underkategori` (bakoverkompatibelt), og `tags` kan alternativt hentes fra `tags/0`, `tags/1` ... hvis array ikke finnes.
+
+## URL‑parametere
+- `?lang=no|en`
+- `?mode=or|and` (tag‑match)
+- `?q=tekst` (søk)
+- `?cat=Hovedkategori`
+- `?sub=Underkategori`
+- `?fav=1` (kun favoritter)
 
 ## Tips
-- Bruk relative stier (`./assets/...`) – fungerer fra både rot og underkataloger.
-- Endre `<title>` og header-tekst i `index.html` ved behov.
+- Legg din komplette `prompts.json` i `assets/data/`.
+- Standardvalg lagres i `localStorage`.
+- Hurtigtast `/` fokuserer søkefeltet.
