@@ -2,55 +2,213 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Prompt Libraries</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css" />
     <style>
         body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            flex-direction: column;
+            font-family: system-ui, sans-serif;
+            background: #f9fafb;
+            color: #111827;
+            margin: 0;
+            padding: 2rem;
             text-align: center;
+        }
+
+        header {
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 2rem;
+        }
+
+        select {
+            padding: 0.5rem;
+            border-radius: 6px;
+            border: 1px solid #d1d5db;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            max-width: 700px;
+            margin: 0 auto 1rem auto;
+            line-height: 1.6;
+        }
+
+        ul,
+        ol {
+            max-width: 700px;
+            text-align: left;
+            margin: 1rem auto;
+            line-height: 1.6;
+        }
+
+        .tips {
+            background: #fff;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            padding: 1.5rem;
+            max-width: 700px;
+            margin: 2rem auto;
+            text-align: left;
+        }
+
+        .tips h3 {
+            margin-top: 0;
+            margin-bottom: 1rem;
         }
 
         .links {
             margin-top: 2rem;
             display: flex;
+            justify-content: center;
             gap: 1.5rem;
         }
 
         .links a {
             padding: 1rem 2rem;
-            border-radius: 10px;
+            border-radius: 12px;
             background: #111827;
-            color: #e6eef7;
+            color: #f9fafb;
             text-decoration: none;
             font-weight: bold;
             border: 1px solid #334155;
-            transition: background 0.3s;
+            transition: background 0.3s, transform 0.2s;
         }
 
         .links a:hover {
             background: #1f2937;
+            transform: translateY(-2px);
+        }
+
+        footer {
+            margin-top: 3rem;
+            font-size: 0.9em;
+            color: #6b7280;
         }
     </style>
 </head>
 
 <body>
-    <h1>Welcome to the Prompt Libraries</h1>
-    <p>
-        Here you can explore two collections:
+    <header>
+        <label for="langSelect" style="margin-right:0.5rem;">Language:</label>
+        <select id="langSelect">
+            <option value="en">English</option>
+            <option value="no">Norsk</option>
+        </select>
+    </header>
+
+    <h1 id="title">Welcome to the Prompt Libraries</h1>
+    <p id="intro">
+        Explore a curated collection of AI prompts to create stunning and consistent results. The library is divided
+        into two parts:
     </p>
-    <div class="links">
-        <a href="prompts.html">✨ General Prompts</a>
-        <a href="selfies.html">📸 Selfies & Transformations</a>
+
+    <ul id="collections">
+        <li><strong>✨ General Prompts</strong> – Wide range of creative prompts, from portraits to cinematic scenes.
+        </li>
+        <li><strong>📸 Selfies & Transformations</strong> – Focused on personal portraits, style changes, and
+            transformations.</li>
+    </ul>
+
+    <h2 id="howTitle">How it works</h2>
+    <ol id="howList">
+        <li>Select a <strong>category</strong> from the left menu.</li>
+        <li>Explore <strong>subcategories</strong> for more specific results.</li>
+        <li>Click a card to view the full prompt and copy it.</li>
+        <li>Switch between <strong>English / Norwegian</strong> as needed.</li>
+    </ol>
+
+    <div class="tips">
+        <h3 id="tipsTitle">Tips for better prompts</h3>
+        <ul id="tipsList">
+            <li>Focus on keeping the <strong>reference face natural</strong>.</li>
+            <li>Add <strong>lighting and background details</strong> for realism.</li>
+            <li>Use <strong>English prompts</strong> for best AI support.</li>
+            <li>Keep prompts <strong>short and clear</strong> for consistency.</li>
+        </ul>
     </div>
-    <footer style="margin-top:3rem; font-size:0.9em; color:#9ca3af;">
+
+    <div class="links">
+        <a href="prompts.html" id="btnPrompts">✨ General Prompts</a>
+        <a href="selfies.html" id="btnSelfies">📸 Selfies & Transformations</a>
+    </div>
+
+    <footer>
         Created with ❤️ by Cre8Web
     </footer>
+
+    <script>
+        const translations = {
+            en: {
+                title: "Welcome to the Prompt Libraries",
+                intro: "Explore a curated collection of AI prompts to create stunning and consistent results. The library is divided into two parts:",
+                collections: `
+          <li><strong>✨ General Prompts</strong> – Wide range of creative prompts, from portraits to cinematic scenes.</li>
+          <li><strong>📸 Selfies & Transformations</strong> – Focused on personal portraits, style changes, and transformations.</li>
+        `,
+                howTitle: "How it works",
+                howList: `
+          <li>Select a <strong>category</strong> from the left menu.</li>
+          <li>Explore <strong>subcategories</strong> for more specific results.</li>
+          <li>Click a card to view the full prompt and copy it.</li>
+          <li>Switch between <strong>English / Norwegian</strong> as needed.</li>
+        `,
+                tipsTitle: "Tips for better prompts",
+                tipsList: `
+          <li>Focus on keeping the <strong>reference face natural</strong>.</li>
+          <li>Add <strong>lighting and background details</strong> for realism.</li>
+          <li>Use <strong>English prompts</strong> for best AI support.</li>
+          <li>Keep prompts <strong>short and clear</strong> for consistency.</li>
+        `,
+                btnPrompts: "✨ General Prompts",
+                btnSelfies: "📸 Selfies & Transformations"
+            },
+            no: {
+                title: "Velkommen til Prompt-bibliotekene",
+                intro: "Utforsk et kuratert utvalg av AI-prompter for å lage flotte og konsistente resultater. Biblioteket er delt i to deler:",
+                collections: `
+          <li><strong>✨ Generelle Prompter</strong> – Et bredt spekter av kreative forslag, fra portretter til filmatiske scener.</li>
+          <li><strong>📸 Selfies & Transformasjoner</strong> – Fokuserer på personlige portretter, stilendringer og kreative transformasjoner.</li>
+        `,
+                howTitle: "Slik fungerer det",
+                howList: `
+          <li>Velg en <strong>kategori</strong> fra menyen til venstre.</li>
+          <li>Utforsk <strong>underkategorier</strong> for mer spesifikke resultater.</li>
+          <li>Klikk på et kort for å se hele prompten og kopiere den.</li>
+          <li>Bytt mellom <strong>Engelsk / Norsk</strong> etter behov.</li>
+        `,
+                tipsTitle: "Tips for bedre prompts",
+                tipsList: `
+          <li>Fokuser på å holde <strong>referanseansiktet naturlig</strong>.</li>
+          <li>Legg til <strong>lys- og bakgrunnsdetaljer</strong> for realisme.</li>
+          <li>Bruk <strong>engelske prompts</strong> for best AI-støtte.</li>
+          <li>Hold prompts <strong>korte og tydelige</strong> for konsistens.</li>
+        `,
+                btnPrompts: "✨ Generelle Prompter",
+                btnSelfies: "📸 Selfies & Transformasjoner"
+            }
+        };
+
+        const langSelect = document.getElementById("langSelect");
+        langSelect.addEventListener("change", (e) => {
+            const lang = e.target.value;
+            const t = translations[lang];
+            document.getElementById("title").textContent = t.title;
+            document.getElementById("intro").textContent = t.intro;
+            document.getElementById("collections").innerHTML = t.collections;
+            document.getElementById("howTitle").textContent = t.howTitle;
+            document.getElementById("howList").innerHTML = t.howList;
+            document.getElementById("tipsTitle").textContent = t.tipsTitle;
+            document.getElementById("tipsList").innerHTML = t.tipsList;
+            document.getElementById("btnPrompts").textContent = t.btnPrompts;
+            document.getElementById("btnSelfies").textContent = t.btnSelfies;
+        });
+    </script>
 </body>
 
 </html>
