@@ -72,55 +72,6 @@
       </footer>
     </dialog>
     
-    <script type="module" src="assets/js/app.optimized.js"></script>
-    
-    <script>
-      (function () {
-        const btn = document.getElementById('sidebarToggle');
-        const hamburger = document.getElementById('hamburgerIcon');
-        const close = document.getElementById('closeIcon');
-        const sidebar = document.querySelector('.layout > aside');
-
-        if (!btn || !sidebar) return;
-
-        // Toggle sidebar open/close
-        btn.addEventListener('click', () => {
-          document.body.classList.toggle('sidebar-open');
-          const isOpen = document.body.classList.contains('sidebar-open');
-          hamburger.style.display = isOpen ? 'none' : 'block';
-          close.style.display = isOpen ? 'block' : 'none';
-        });
-
-        // Handle category clicks (keep sidebar open)
-        const categoryList = document.getElementById('categoryList');
-        if (categoryList) {
-          categoryList.addEventListener('click', (e) => {
-            if (e.target.tagName === 'BUTTON') {
-              sidebar.querySelectorAll('#categoryList button').forEach(b => b.classList.remove('active'));
-              e.target.classList.add('active');
-              // sidebar stays open here
-            }
-          });
-        }
-
-        // Handle subcategory clicks (close sidebar)
-        const subcategoryList = document.getElementById('subcategoryList');
-        if (subcategoryList) {
-          subcategoryList.addEventListener('click', (e) => {
-            if (e.target.tagName === 'BUTTON') {
-              sidebar.querySelectorAll('#subcategoryList button').forEach(b => b.classList.remove('active'));
-              e.target.classList.add('active');
-              // close sidebar after subcategory chosen
-              document.body.classList.remove('sidebar-open');
-              hamburger.style.display = 'block';
-              close.style.display = 'none';
-            }
-          });
-        }
-      })();
-    </script>
-
-
+    <script type="module" src="assets/js/app.optimized.js"defer></script>
     </body>
-    
     </html>
