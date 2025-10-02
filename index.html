@@ -10,11 +10,26 @@
 
 <body>
   <header class="topbar">
-    <input id="search" type="search" placeholder="Search (title, text, tags)  /  press / to focus">
-    <label>
-      <input type="checkbox" id="favToggle"> Favorites only
+    <label for="search" id="searchLabel" style="display:none;">Search prompts</label>
+    <input id="search" type="search" placeholder="Search prompts..." title="Search prompts" aria-labelledby="searchLabel">
+  
+    <label id="favLabel">
+      <label for="favToggle">
+        <input type="checkbox" id="favToggle" title="Show favorites">
+        <span></span>
+        Show favorites
+      </label>
     </label>
+  
+    <label id="langLabel" for="langSelect">Language</label>
+    <select id="langSelect" title="Select language">
+      <option value="en">English</option>
+      <option value="no">Norsk</option>
+    </select>
   </header>
+
+  <div id="infoBanner" class="info-banner"></div>
+
 
   <main class="layout">
     <aside>

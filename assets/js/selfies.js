@@ -1,4 +1,3 @@
-// app.js med full språkstøtte (EN/NO)
 
 // Helpers
 function $(sel, el=document){ return el.querySelector(sel) }
@@ -111,9 +110,9 @@ async function init(){
 
   let json;
   try{
-    json = await (await fetch('assets/data/prompts.json', {cache:'no-store'})).json();
+    json = await (await fetch('assets/data/selfies.json', {cache:'no-store'})).json();
   }catch{
-    toast('Failed to load prompts.json');
+    toast('Failed to load selfies.json');
     return;
   }
   STATE.data = json;

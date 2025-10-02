@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompt Library</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <header class="topbar">
+        <label for="search" id="searchLabel" style="display:none;">Search prompts</label>
+        <input id="search" type="search" placeholder="Search prompts..." title="Search prompts"
+            aria-labelledby="searchLabel">
+
+        <label id="favLabel">
+            <label for="favToggle">
+                <input type="checkbox" id="favToggle" title="Show favorites">
+                <span></span>
+                Show favorites
+            </label>
+        </label>
+
+        <label id="langLabel" for="langSelect">Language</label>
+        <select id="langSelect" title="Select language">
+            <option value="en">English</option>
+            <option value="no">Norsk</option>
+        </select>
+    </header>
+
+    <div id="infoBanner" class="info-banner"></div>
+
+
+    <main class="layout">
+        <aside>
+            <h2>Categories</h2>
+            <ul id="categoryList"></ul>
+            <h3>Subcategories</h3>
+            <ul id="subcategoryList"></ul>
+        </aside>
+
+        <section>
+            <div id="breadcrumbs">
+                <span>Select a category</span>
+                <button id="resetFilters" style="display:none">Show All</button>
+            </div>
+            <div id="cards" class="cards"></div>
+        </section>
+    </main>
+
+    <!-- Prompt modal -->
+    <dialog id="promptDialog">
+        <header>
+            <h3 id="dlgTitle"></h3>
+        </header>
+        <pre id="dlgBody"></pre>
+        <footer>
+            <button id="copyPrompt">Copy</button>
+            <button id="dlgClose">Close</button>
+        </footer>
+    </dialog>
+
+    <script type="module" src="assets/js/app.js"></script>
+</body>
+
+</html>
