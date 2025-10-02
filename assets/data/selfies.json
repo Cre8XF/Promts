@@ -1,883 +1,2805 @@
 [
   {
     "id": "business-female-002",
-    "title": "Business (female)",
-    "prompt": "Close-up business headshot of a woman in a tailored blazer. Strong focus on the face. Keep the original facial features fully intact and unchanged. Preserve natural skin texture and expression. Background: subtle gray gradient with professional studio lighting. Authentic, LinkedIn-ready style.",
-    "category": "Selfies",
-    "subcategory": "Business",
-    "tags": ["female", "business", "face-focus"]
+    "title": {
+      "en": "Business headshot – woman, blazer and shirt",
+      "no": "Bedrift (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Close-up business headshot of a woman in a tailored blazer. Strong focus on the face. Keep the original facial features fully intact and unchanged. Preserve natural skin texture and expression. Background: subtle gray gradient with professional studio lighting. Authentic, LinkedIn-ready style.",
+      "no": "Nærbilde av virksomhetens hodebilde av en kvinne i en skreddersydd blazer. Sterkt fokus på ansiktet. Hold de originale ansiktstrekkene helt intakte og uendret. Bevar naturlig hudtekstur og uttrykk. Bakgrunn: subtil grå gradient med profesjonell studiobelysning. Autentisk, LinkedIn-klar stil."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "face-focus",
+        "no": "ansiktsfokus"
+      }
+    ]
   },
   {
     "id": "business-male-001",
-    "title": "Business (male)",
-    "prompt": "Professional business headshot selfie of a man in a dark blazer and light shirt. Keep the original face completely unchanged and identical to the source, with natural skin details. Background: clean gradient with studio lighting. Confident and approachable LinkedIn look.",
-    "category": "Selfies",
-    "subcategory": "Business",
-    "tags": ["male", "business", "standard"]
+    "title": {
+      "en": "Business headshot – man, blazer and shirt",
+      "no": "Bedrift (mann)"
+    },
+    "prompt": {
+      "en": "Professional business headshot selfie of a man in a dark blazer and light shirt. Keep the original face completely unchanged and identical to the source, with natural skin details. Background: clean gradient with studio lighting. Confident and approachable LinkedIn look.",
+      "no": "Profesjonell business headshot selfie av en mann i en mørk blazer og lys skjorte. Hold det originale ansiktet helt uendret og identisk med kilden, med naturlige huddetaljer. Bakgrunn: ren gradient med studiobelysning. Selvsikker og tilgjengelig LinkedIn-utseende."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "standard",
+        "no": "standard"
+      }
+    ]
   },
   {
     "id": "business-male-002",
-    "title": "Business (male)",
-    "prompt": "Close-up business headshot of a man in a dark blazer and light shirt. Strong focus on the face. Preserve the original facial features 100% unchanged. Maintain realistic skin detail and natural expression. Background: subtle gray gradient with professional studio lighting.",
-    "category": "Selfies",
-    "subcategory": "Business",
-    "tags": ["male", "business", "face-focus"]
+    "title": {
+      "en": "Business headshot – man, blazer and shirt",
+      "no": "Bedrift (mann)"
+    },
+    "prompt": {
+      "en": "Close-up business headshot of a man in a dark blazer and light shirt. Strong focus on the face. Preserve the original facial features 100% unchanged. Maintain realistic skin detail and natural expression. Background: subtle gray gradient with professional studio lighting.",
+      "no": "Nærbilde av virksomhetens hodebilde av en mann i mørk blazer og lys skjorte. Sterkt fokus på ansiktet. Bevar de originale ansiktstrekkene 100 % uendret. Oppretthold realistiske huddetaljer og naturlig uttrykk. Bakgrunn: subtil grå gradient med profesjonell studiobelysning."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "face-focus",
+        "no": "ansiktsfokus"
+      }
+    ]
   },
   {
     "id": "business-female-003",
-    "title": "Business (female)",
-    "prompt": "Professional business headshot selfie of a woman in a tailored blazer. Keep the original face completely unchanged and natural, with realistic skin texture. Background: clean gradient with soft studio lighting. Bright, approachable and confident look.",
-    "category": "Selfies",
-    "subcategory": "Business",
-    "tags": ["female", "business", "face-preservation"]
+    "title": {
+      "en": "Business headshot – woman, blazer and shirt",
+      "no": "Bedrift (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Professional business headshot selfie of a woman in a tailored blazer. Keep the original face completely unchanged and natural, with realistic skin texture. Background: clean gradient with soft studio lighting. Bright, approachable and confident look.",
+      "no": "Profesjonell business headshot selfie av en kvinne i en skreddersydd blazer. Hold det originale ansiktet helt uendret og naturlig, med realistisk hudtekstur. Bakgrunn: ren gradient med myk studiobelysning. Lyst, tilgjengelig og selvsikkert utseende."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "business-female-004",
-    "title": "Business (female)",
-    "prompt": "Transform this selfie into a professional business portrait. Keep the face 100% natural and unchanged — same expression, skin details, and proportions. Only adjust outfit to a tailored blazer and add a clean gradient background with soft studio lighting. The result should look realistic, professional, and LinkedIn-ready. Face preservation priority.",
-    "category": "Selfies",
-    "subcategory": "Business",
-    "tags": ["female", "business", "face-preservation"]
+    "title": {
+      "en": "Business headshot – woman, blazer and shirt",
+      "no": "Bedrift (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Transform this selfie into a professional business portrait. Keep the face 100% natural and unchanged — same expression, skin details, and proportions. Only adjust outfit to a tailored blazer and add a clean gradient background with soft studio lighting. The result should look realistic, professional, and LinkedIn-ready. Face preservation priority.",
+      "no": "Gjør denne selfien til et profesjonelt forretningsportrett. Hold ansiktet 100 % naturlig og uendret – samme uttrykk, huddetaljer og proporsjoner. Tilpass kun antrekket til en skreddersydd blazer og legg til en ren gradientbakgrunn med myk studiobelysning. Resultatet skal se realistisk, profesjonelt og LinkedIn-klart ut. Ansiktsbevaring prioritet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "business-female-005",
-    "title": "Business (female)",
-    "prompt": "Edit into a professional business headshot. Keep the original face fully intact and realistic with no changes to features or skin. Outfit: elegant tailored blazer. Background: subtle gradient gray with studio lighting. Style: authentic, professional, approachable. Face preservation priority.",
-    "category": "Selfies",
-    "subcategory": "Business",
-    "tags": ["female", "business", "face-preservation"]
+    "title": {
+      "en": "Business headshot – woman, blazer and shirt",
+      "no": "Bedrift (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Edit into a professional business headshot. Keep the original face fully intact and realistic with no changes to features or skin. Outfit: elegant tailored blazer. Background: subtle gradient gray with studio lighting. Style: authentic, professional, approachable. Face preservation priority.",
+      "no": "Rediger til et profesjonelt forretningsbilde. Hold det originale ansiktet helt intakt og realistisk uten endringer i funksjoner eller hud. Antrekk: elegant skreddersydd blazer. Bakgrunn: subtil gradientgrå med studiobelysning. Stil: autentisk, profesjonell, tilgjengelig. Ansiktsbevaring prioritet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "business-female-006",
-    "title": "Business (female)",
-    "prompt": "Professional business headshot portrait of a woman in a black tailored blazer with a white blouse. Keep the original face completely unchanged and natural — identical facial features, skin texture and expression preserved. Background: subtle dark gradient (black to charcoal). Lighting: cinematic studio style with soft side light for depth. Authentic, realistic, and professional LinkedIn-ready look.",
-    "category": "Selfies",
-    "subcategory": "Business",
-    "tags": ["female", "business", "face-preservation"]
+    "title": {
+      "en": "Business headshot – woman, blazer and shirt",
+      "no": "Bedrift (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Professional business headshot portrait of a woman in a black tailored blazer with a white blouse. Keep the original face completely unchanged and natural — identical facial features, skin texture and expression preserved. Background: subtle dark gradient (black to charcoal). Lighting: cinematic studio style with soft side light for depth. Authentic, realistic, and professional LinkedIn-ready look.",
+      "no": "Profesjonelt forretningshodebildeportrett av en kvinne i en svart skreddersydd blazer med en hvit bluse. Hold det originale ansiktet helt uendret og naturlig – identiske ansiktstrekk, hudtekstur og uttrykk bevart. Bakgrunn: subtil mørk gradient (svart til kull). Lyssetting: filmisk studiostil med mykt sidelys for dybde. Autentisk, realistisk og profesjonelt LinkedIn-klar utseende."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "men-001",
-    "title": "Casual (male)",
-    "prompt": "Ultra-realistic portrait of a man taking a selfie outdoors in natural daylight. Sharp details on skin and beard, soft background blur with greenery. Relaxed and authentic atmosphere, cinematic color grading.",
-    "category": "Selfies",
-    "subcategory": "Casual",
-    "tags": ["male", "casual", "standard"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Uformell (mann)"
+    },
+    "prompt": {
+      "en": "Ultra-realistic portrait of a man taking a selfie outdoors in natural daylight. Sharp details on skin and beard, soft background blur with greenery. Relaxed and authentic atmosphere, cinematic color grading.",
+      "no": "Ultrarealistisk portrett av en mann som tar en selfie utendørs i naturlig dagslys. Skarpe detaljer på hud og skjegg, myk bakgrunnsuskarphet med grønt. Avslappet og autentisk atmosfære, filmatisk fargegradering."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Casual",
+      "no": "Tilfeldig"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "casual",
+        "no": "tilfeldig"
+      },
+      {
+        "en": "standard",
+        "no": "standard"
+      }
+    ]
   },
   {
     "id": "men-002",
-    "title": "Casual (male)",
-    "prompt": "Ultra-realistic close-up portrait of a man taking a selfie outdoors in natural daylight. Strong focus on the face with sharp detail on skin and beard. Background blurred with greenery. Relaxed and authentic atmosphere, cinematic color grading.",
-    "category": "Selfies",
-    "subcategory": "Casual",
-    "tags": ["male", "casual", "face-focus"]
-  },
-  {
-    "id": "men-003",
-    "title": "Professional (male)",
-    "prompt": "Professional business headshot selfie of a man in a dark navy blazer and light blue shirt. Background: subtle gradient gray. Lighting: studio style with soft side light for definition. Photorealistic, natural expression, LinkedIn-ready.",
-    "category": "Selfies",
-    "subcategory": "Professional",
-    "tags": ["male", "professional", "standard"]
-  },
-  {
-    "id": "men-004",
-    "title": "Professional (male)",
-    "prompt": "Professional close-up headshot selfie of a man in a dark navy blazer and light blue shirt. Strong focus on the face, with sharp skin detail and natural expression. Background: subtle gradient gray. Studio lighting for LinkedIn-ready look.",
-    "category": "Selfies",
-    "subcategory": "Professional",
-    "tags": ["male", "professional", "face-focus"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Uformell (mann)"
+    },
+    "prompt": {
+      "en": "Ultra-realistic close-up portrait of a man taking a selfie outdoors in natural daylight. Strong focus on the face with sharp detail on skin and beard. Background blurred with greenery. Relaxed and authentic atmosphere, cinematic color grading.",
+      "no": "Ultrarealistisk nærbildeportrett av en mann som tar en selfie utendørs i naturlig dagslys. Sterkt fokus på ansiktet med skarpe detaljer på hud og skjegg. Bakgrunn uskarpt med grøntområder. Avslappet og autentisk atmosfære, filmatisk fargegradering."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Casual",
+      "no": "Tilfeldig"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "casual",
+        "no": "tilfeldig"
+      },
+      {
+        "en": "face-focus",
+        "no": "ansiktsfokus"
+      }
+    ]
   },
   {
     "id": "men-005",
-    "title": "Cinematic (male)",
-    "prompt": "Close-up cinematic selfie of a rugged man with textured skin and trimmed beard, dramatic side lighting, muted colors, slightly desaturated tones. Background: urban concrete wall. Strong masculine atmosphere.",
-    "category": "Selfies",
-    "subcategory": "Cinematic",
-    "tags": ["male", "cinematic", "standard"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Kinematisk (mann)"
+    },
+    "prompt": {
+      "en": "Close-up cinematic selfie of a rugged man with textured skin and trimmed beard, dramatic side lighting, muted colors, slightly desaturated tones. Background: urban concrete wall. Strong masculine atmosphere.",
+      "no": "Nærbilde av en kinoselfie av en røff mann med strukturert hud og trimmet skjegg, dramatisk sidebelysning, dempede farger, litt desaturerte toner. Bakgrunn: urban betongvegg. Sterk maskulin atmosfære."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Cinematic",
+      "no": "Kinematisk"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      },
+      {
+        "en": "standard",
+        "no": "standard"
+      }
+    ]
   },
   {
     "id": "men-006",
-    "title": "Cinematic (male)",
-    "prompt": "Cinematic close-up selfie of a rugged man with intense focus on the face. Detailed skin texture, sharp beard lines, dramatic side lighting. Background: urban concrete wall, desaturated tones. Strong masculine atmosphere.",
-    "category": "Selfies",
-    "subcategory": "Cinematic",
-    "tags": ["male", "cinematic", "face-focus"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Kinematisk (mann)"
+    },
+    "prompt": {
+      "en": "Cinematic close-up selfie of a rugged man with intense focus on the face. Detailed skin texture, sharp beard lines, dramatic side lighting. Background: urban concrete wall, desaturated tones. Strong masculine atmosphere.",
+      "no": "Kinematisk nærbilde-selfie av en røff mann med intens fokus på ansiktet. Detaljert hudtekstur, skarpe skjegglinjer, dramatisk sidebelysning. Bakgrunn: urban betongvegg, desaturated toner. Sterk maskulin atmosfære."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Cinematic",
+      "no": "Kinematisk"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      },
+      {
+        "en": "face-focus",
+        "no": "ansiktsfokus"
+      }
+    ]
   },
   {
     "id": "men-007",
-    "title": "Creative (male)",
-    "prompt": "Artistic selfie portrait of a man in modern fashion (black turtleneck, stylish glasses). Background: neon lights in purple and blue. Glow reflections on skin, futuristic cyberpunk vibe.",
-    "category": "Selfies",
-    "subcategory": "Creative",
-    "tags": ["male", "creative", "standard"]
+    "title": {
+      "en": "Cyberpunk / Cybernetic portrait",
+      "no": "Kreativ (mann)"
+    },
+    "prompt": {
+      "en": "Artistic selfie portrait of a man in modern fashion (black turtleneck, stylish glasses). Background: neon lights in purple and blue. Glow reflections on skin, futuristic cyberpunk vibe.",
+      "no": "Kunstnerisk selfie-portrett av en mann i moderne mote (svart turtleneck, stilige briller). Bakgrunn: neonlys i lilla og blått. Glødende refleksjoner på huden, futuristisk cyberpunk-stemning."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Creative",
+      "no": "Kreativ"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "creative",
+        "no": "kreativ"
+      },
+      {
+        "en": "standard",
+        "no": "standard"
+      }
+    ]
   },
   {
     "id": "men-008",
-    "title": "Creative (male)",
-    "prompt": "Artistic close-up selfie portrait of a man with strong focus on the face. Wearing modern fashion (black turtleneck, stylish glasses). Neon lights in purple and blue reflect softly on skin. Futuristic cyberpunk vibe.",
-    "category": "Selfies",
-    "subcategory": "Creative",
-    "tags": ["male", "creative", "face-focus"]
+    "title": {
+      "en": "Cyberpunk / Cybernetic portrait",
+      "no": "Kreativ (mann)"
+    },
+    "prompt": {
+      "en": "Artistic close-up selfie portrait of a man with strong focus on the face. Wearing modern fashion (black turtleneck, stylish glasses). Neon lights in purple and blue reflect softly on skin. Futuristic cyberpunk vibe.",
+      "no": "Kunstnerisk nærbilde selfie-portrett av en mann med sterkt fokus på ansiktet. Iført moderne mote (svart turtleneck, stilige briller). Neonlys i lilla og blått reflekterer mykt på huden. Futuristisk cyberpunk-stemning."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Creative",
+      "no": "Kreativ"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "creative",
+        "no": "kreativ"
+      },
+      {
+        "en": "face-focus",
+        "no": "ansiktsfokus"
+      }
+    ]
   },
   {
     "id": "women-001",
-    "title": "Casual (female)",
-    "prompt": "Ultra-realistic portrait of a woman taking a selfie with natural makeup, warm daylight through a window. Soft background blur, light freckles and natural hair texture. Authentic and relaxed vibe.",
-    "category": "Selfies",
-    "subcategory": "Casual",
-    "tags": ["female", "casual", "standard"]
+    "title": {
+      "en": "Casual (female)",
+      "no": "Uformell (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Ultra-realistic portrait of a woman taking a selfie with natural makeup, warm daylight through a window. Soft background blur, light freckles and natural hair texture. Authentic and relaxed vibe.",
+      "no": "Ultrarealistisk portrett av en kvinne som tar en selfie med naturlig sminke, varmt dagslys gjennom et vindu. Myk bakgrunnsuskarphet, lyse fregner og naturlig hårtekstur. Autentisk og avslappet stemning."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Casual",
+      "no": "Tilfeldig"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "casual",
+        "no": "tilfeldig"
+      },
+      {
+        "en": "standard",
+        "no": "standard"
+      }
+    ]
   },
   {
     "id": "women-002",
-    "title": "Casual (female)",
-    "prompt": "Ultra-realistic close-up portrait of a woman taking a selfie with natural makeup. Strong focus on the face with sharp detail on freckles and skin. Warm daylight through a window, blurred background. Authentic and relaxed vibe.",
-    "category": "Selfies",
-    "subcategory": "Casual",
-    "tags": ["female", "casual", "face-focus"]
-  },
-  {
-    "id": "women-003",
-    "title": "Professional (female)",
-    "prompt": "Professional business headshot selfie of a woman in a tailored blazer, subtle makeup, neat hairstyle. Background: clean gradient with studio lighting. Bright, approachable and confident look.",
-    "category": "Selfies",
-    "subcategory": "Professional",
-    "tags": ["female", "professional", "standard"]
-  },
-  {
-    "id": "women-004",
-    "title": "Professional (female)",
-    "prompt": "Professional close-up business headshot selfie of a woman in a tailored blazer. Strong focus on the face with flawless skin details, subtle makeup and neat hairstyle. Background: clean gradient, studio lighting. Confident LinkedIn-ready look.",
-    "category": "Selfies",
-    "subcategory": "Professional",
-    "tags": ["female", "professional", "face-focus"]
+    "title": {
+      "en": "Casual (female)",
+      "no": "Uformell (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Ultra-realistic close-up portrait of a woman taking a selfie with natural makeup. Strong focus on the face with sharp detail on freckles and skin. Warm daylight through a window, blurred background. Authentic and relaxed vibe.",
+      "no": "Ultrarealistisk nærbildeportrett av en kvinne som tar en selfie med naturlig sminke. Sterkt fokus på ansiktet med skarpe detaljer på fregner og hud. Varmt dagslys gjennom et vindu, uskarp bakgrunn. Autentisk og avslappet stemning."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Casual",
+      "no": "Tilfeldig"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "casual",
+        "no": "tilfeldig"
+      },
+      {
+        "en": "face-focus",
+        "no": "ansiktsfokus"
+      }
+    ]
   },
   {
     "id": "women-005",
-    "title": "Glamorous (female)",
-    "prompt": "Fashion selfie portrait of a woman with elegant evening makeup, glossy lips, wavy hair. Background: soft bokeh city lights. Glamorous, editorial magazine look, cinematic lighting.",
-    "category": "Selfies",
-    "subcategory": "Glamorous",
-    "tags": ["female", "glamorous", "standard"]
+    "title": {
+      "en": "Glamorous red carpet portrait",
+      "no": "Glamorøs (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Fashion selfie portrait of a woman with elegant evening makeup, glossy lips, wavy hair. Background: soft bokeh city lights. Glamorous, editorial magazine look, cinematic lighting.",
+      "no": "Mote selfie-portrett av en kvinne med elegant kveldssminke, blanke lepper, bølget hår. Bakgrunn: myke bokeh-bylys. Glamorøst, redaksjonelt magasinutseende, filmisk lyssetting."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Glamorous",
+      "no": "Glamorøs"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "glamorous",
+        "no": "glamorøs"
+      },
+      {
+        "en": "standard",
+        "no": "standard"
+      }
+    ]
   },
   {
     "id": "women-006",
-    "title": "Glamorous (female)",
-    "prompt": "Fashion close-up selfie of a woman with elegant evening makeup, glossy lips and flawless skin. Strong focus on the face. Wavy hair flowing naturally. Background: soft bokeh city lights. Editorial magazine look, cinematic lighting.",
-    "category": "Selfies",
-    "subcategory": "Glamorous",
-    "tags": ["female", "glamorous", "face-focus"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Glamorøs (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Fashion close-up selfie of a woman with elegant evening makeup, glossy lips and flawless skin. Strong focus on the face. Wavy hair flowing naturally. Background: soft bokeh city lights. Editorial magazine look, cinematic lighting.",
+      "no": "Mote-nærbilde-selfie av en kvinne med elegant kveldssminke, blanke lepper og feilfri hud. Sterkt fokus på ansiktet. Bølget hår som flyter naturlig. Bakgrunn: myke bokeh-bylys. Redaksjonelt magasinutseende, filmisk lyssetting."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Glamorous",
+      "no": "Glamorøs"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "glamorous",
+        "no": "glamorøs"
+      },
+      {
+        "en": "face-focus",
+        "no": "ansiktsfokus"
+      }
+    ]
   },
   {
     "id": "women-007",
-    "title": "Creative (female)",
-    "prompt": "Artistic selfie portrait of a woman with bold eyeliner and vibrant lipstick. Background: neon pink and teal lights with soft reflections. Futuristic cyberpunk aesthetic, high detail.",
-    "category": "Selfies",
-    "subcategory": "Creative",
-    "tags": ["female", "creative", "standard"]
+    "title": {
+      "en": "Cyberpunk / Cybernetic portrait",
+      "no": "Kreativ (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Artistic selfie portrait of a woman with bold eyeliner and vibrant lipstick. Background: neon pink and teal lights with soft reflections. Futuristic cyberpunk aesthetic, high detail.",
+      "no": "Kunstnerisk selfie-portrett av en kvinne med dristig eyeliner og livlig leppestift. Bakgrunn: neonrosa og blågrønne lys med myke refleksjoner. Futuristisk cyberpunk-estetikk, høy detalj."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Creative",
+      "no": "Kreativ"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "creative",
+        "no": "kreativ"
+      },
+      {
+        "en": "standard",
+        "no": "standard"
+      }
+    ]
   },
   {
     "id": "women-008",
-    "title": "Creative (female)",
-    "prompt": "Artistic close-up selfie portrait of a woman with strong focus on the face. Bold eyeliner and vibrant lipstick. Background: neon pink and teal lights reflecting softly on the skin. Futuristic cyberpunk aesthetic, highly detailed.",
-    "category": "Selfies",
-    "subcategory": "Creative",
-    "tags": ["female", "creative", "face-focus"]
+    "title": {
+      "en": "Cyberpunk / Cybernetic portrait",
+      "no": "Kreativ (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Artistic close-up selfie portrait of a woman with strong focus on the face. Bold eyeliner and vibrant lipstick. Background: neon pink and teal lights reflecting softly on the skin. Futuristic cyberpunk aesthetic, highly detailed.",
+      "no": "Kunstnerisk nærbilde selfie-portrett av en kvinne med sterkt fokus på ansiktet. Fet eyeliner og livlig leppestift. Bakgrunn: neonrosa og blågrønne lys som reflekterer mykt på huden. Futuristisk cyberpunk-estetikk, svært detaljert."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Creative",
+      "no": "Kreativ"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "creative",
+        "no": "kreativ"
+      },
+      {
+        "en": "face-focus",
+        "no": "ansiktsfokus"
+      }
+    ]
   },
   {
     "id": "men-009",
-    "title": "Cinematic (male)",
-    "prompt": "Ultra-realistic cinematic portrait of the same man, face kept identical to the original photo. Wearing a black leather jacket and dark t-shirt, reflective sunglasses catching neon lights. Background: futuristic city street at night with glowing neon signs in blue and pink. Strong cinematic lighting with high contrast, sharp focus on face and beard, evoking a powerful, movie-poster atmosphere.",
-    "category": "Selfies",
-    "subcategory": "Cinematic",
-    "tags": ["male", "cinematic", "face-preservation"]
-  },
-  {
-    "id": "men-010",
-    "title": "Professional (male)",
-    "prompt": "Hyper-realistic studio portrait of the same man, face kept as close as possible to the original photo. Wearing a dark blue blazer and crisp white shirt, no tie. Background: subtle dark gradient from black to steel gray. Lighting: dramatic side light to create depth and highlight facial features, giving a sharp, professional yet stylish look.",
-    "category": "Selfies",
-    "subcategory": "Professional",
-    "tags": ["male", "professional", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Kinematisk (mann)"
+    },
+    "prompt": {
+      "en": "Ultra-realistic cinematic portrait of the same man, face kept identical to the original photo. Wearing a black leather jacket and dark t-shirt, reflective sunglasses catching neon lights. Background: futuristic city street at night with glowing neon signs in blue and pink. Strong cinematic lighting with high contrast, sharp focus on face and beard, evoking a powerful, movie-poster atmosphere.",
+      "no": "Ultrarealistisk kinoportrett av samme mann, ansikt holdt identisk med originalbildet. Iført en svart skinnjakke og mørk t-skjorte, reflekterende solbriller som fanger neonlys. Bakgrunn: futuristisk bygate om natten med lysende neonskilt i blått og rosa. Sterk filmisk belysning med høy kontrast, skarpt fokus på ansikt og skjegg, som fremkaller en kraftig filmplakatatmosfære."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Cinematic",
+      "no": "Kinematisk"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "men-011",
-    "title": "Casual (male)",
-    "prompt": "Photorealistic portrait of the same man, face preserved from the original photo. Wearing a relaxed white shirt with sleeves rolled up, reflective sunglasses. Background: rooftop terrace with sunset sky and warm golden tones. Lighting: soft natural glow highlighting skin and hair. Casual, modern, lifestyle magazine style with a confident but laid-back atmosphere.",
-    "category": "Selfies",
-    "subcategory": "Casual",
-    "tags": ["male", "casual", "face-preservation"]
+    "title": {
+      "en": "Casual selfie – natural look",
+      "no": "Uformell (mann)"
+    },
+    "prompt": {
+      "en": "Photorealistic portrait of the same man, face preserved from the original photo. Wearing a relaxed white shirt with sleeves rolled up, reflective sunglasses. Background: rooftop terrace with sunset sky and warm golden tones. Lighting: soft natural glow highlighting skin and hair. Casual, modern, lifestyle magazine style with a confident but laid-back atmosphere.",
+      "no": "Fotorealistisk portrett av samme mann, ansikt bevart fra originalbildet. Iført en avslappet hvit skjorte med oppbrettede ermer, reflekterende solbriller. Bakgrunn: takterrasse med solnedgangshimmel og varme gylne toner. Belysning: myk naturlig glød som fremhever hud og hår. Uformell, moderne livsstilsmagasinstil med en selvsikker, men avslappet atmosfære."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Casual",
+      "no": "Tilfeldig"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "casual",
+        "no": "tilfeldig"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "men-012",
-    "title": "Futuristic (male)",
-    "prompt": "Ultra-realistic portrait of the same man, keeping the face identical to the original photo. Wearing a black hoodie, reflective sunglasses glowing with screen reflections. Background: high-tech futuristic office with holographic displays and neon blue accents. Lighting: cinematic with cool tones, subtle rim light around the head for a tech-inspired atmosphere. Sharp, stylish, modern cyberpunk style.",
-    "category": "Selfies",
-    "subcategory": "Futuristic",
-    "tags": ["male", "futuristic", "face-preservation"]
+    "title": {
+      "en": "Cyberpunk / Cybernetic portrait",
+      "no": "Futuristisk (mann)"
+    },
+    "prompt": {
+      "en": "Ultra-realistic portrait of the same man, keeping the face identical to the original photo. Wearing a black hoodie, reflective sunglasses glowing with screen reflections. Background: high-tech futuristic office with holographic displays and neon blue accents. Lighting: cinematic with cool tones, subtle rim light around the head for a tech-inspired atmosphere. Sharp, stylish, modern cyberpunk style.",
+      "no": "Ultrarealistisk portrett av samme mann, som holder ansiktet identisk med originalbildet. Iført en svart hettegenser, reflekterende solbriller som lyser med skjermreflekser. Bakgrunn: høyteknologisk futuristisk kontor med holografiske skjermer og neonblå aksenter. Lyssetting: filmisk med kule toner, subtilt kantlys rundt hodet for en teknologiinspirert atmosfære. Skarp, stilig, moderne cyberpunk-stil."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Futuristic",
+      "no": "Futuristisk"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "futuristic",
+        "no": "futuristisk"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-001",
-    "title": "Batman standing in rain (male)",
-    "prompt": "A hyper-realistic cinematic scene of this man in a Batman suit, standing in the rain with Gotham skyline behind him. Keep the face as natural and realistic as possible. He holds the empty Batman mask in one hand. Outfit: detailed armored Batsuit with cape, rain-drenched textures. Lighting: dramatic with flashes of lightning. Mood: heroic, solemn, powerful.",
-    "category": "Selfies",
-    "subcategory": "Batman standing in rain",
-    "tags": ["male", "Batman standing in rain", "face-preservation"]
+    "title": {
+      "en": "Batman cinematic portrait",
+      "no": "Batman står i regn (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic scene of this man in a Batman suit, standing in the rain with Gotham skyline behind him. Keep the face as natural and realistic as possible. He holds the empty Batman mask in one hand. Outfit: detailed armored Batsuit with cape, rain-drenched textures. Lighting: dramatic with flashes of lightning. Mood: heroic, solemn, powerful.",
+      "no": "En hyperrealistisk filmscene av denne mannen i Batman-drakt, stående i regnet med Gothams skyline bak seg. Hold ansiktet så naturlig og realistisk som mulig. Han holder den tomme Batman-masken i den ene hånden. Antrekk: detaljert pansret Batsuit med kappe, regnvåte teksturer. Lyssetting: dramatisk med lynglimt. Stemning: heroisk, høytidelig, kraftig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Batman standing in rain",
+      "no": "Batman står i regnet"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Batman standing in rain",
+        "no": "Batman står i regnet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-002",
-    "title": "Batman rooftop reflective (male)",
-    "prompt": "A hyper-realistic cinematic scene of this man in a Batman suit, sitting on the edge of a rooftop in the rain, looking down with a reflective expression. Keep the face as natural and realistic as possible. Outfit: rain-soaked armored Batsuit. Background: Gotham skyline blurred with glowing lights. Mood: melancholic, dramatic, powerful.",
-    "category": "Selfies",
-    "subcategory": "Batman rooftop reflective",
-    "tags": ["male", "Batman rooftop reflective", "face-preservation"]
+    "title": {
+      "en": "Batman cinematic portrait",
+      "no": "Batman takrefleks (hann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic scene of this man in a Batman suit, sitting on the edge of a rooftop in the rain, looking down with a reflective expression. Keep the face as natural and realistic as possible. Outfit: rain-soaked armored Batsuit. Background: Gotham skyline blurred with glowing lights. Mood: melancholic, dramatic, powerful.",
+      "no": "En hyperrealistisk filmscene av denne mannen i Batman-drakt, som sitter på kanten av et tak i regnet og ser ned med et reflektert uttrykk. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: regnvåt pansret Batsuit. Bakgrunn: Gothams skyline uskarpt med glødende lys. Stemning: melankolsk, dramatisk, kraftfull."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Batman rooftop reflective",
+      "no": "Batman reflekterende tak"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Batman rooftop reflective",
+        "no": "Batman reflekterende tak"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-003",
-    "title": "Spider-man rooftop (male)",
-    "prompt": "A hyper-realistic cinematic scene of this man in a Spider-Man suit, crouching on the edge of a rooftop at night in New York, under the rain. Keep the face as natural and realistic as possible, mask removed and held in one hand. Background: glowing skyline with Empire State Building. Mood: emotional, heroic, reflective.",
-    "category": "Selfies",
-    "subcategory": "Spider-man rooftop",
-    "tags": ["male", "Spider-Man rooftop", "face-preservation"]
+    "title": {
+      "en": "Spider-Man cinematic portrait",
+      "no": "Spider-man-taket (hann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic scene of this man in a Spider-Man suit, crouching on the edge of a rooftop at night in New York, under the rain. Keep the face as natural and realistic as possible, mask removed and held in one hand. Background: glowing skyline with Empire State Building. Mood: emotional, heroic, reflective.",
+      "no": "En hyperrealistisk filmscene av denne mannen i Spider-Man-drakt, huket på kanten av et tak om natten i New York, under regnet. Hold ansiktet så naturlig og realistisk som mulig, masken fjernes og holdes i en hånd. Bakgrunn: glødende skyline med Empire State Building. Stemning: emosjonell, heroisk, reflektert."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Spider-man rooftop",
+      "no": "Spider-man-taket"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Spider-Man rooftop",
+        "no": "Spider-Man-taket"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-004",
-    "title": "Spider-man studio portrait (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man in a Spider-Man suit, standing front-facing with mask held in one hand. Keep the face as natural and realistic as possible. Background: dark gradient with soft spotlight. Lighting: dramatic and clean, like a movie poster. Mood: heroic and confident.",
-    "category": "Selfies",
-    "subcategory": "Spider-man studio portrait",
-    "tags": ["male", "Spider-Man studio portrait", "face-preservation"]
+    "title": {
+      "en": "Spider-Man cinematic portrait",
+      "no": "Spider-man studioportrett (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man in a Spider-Man suit, standing front-facing with mask held in one hand. Keep the face as natural and realistic as possible. Background: dark gradient with soft spotlight. Lighting: dramatic and clean, like a movie poster. Mood: heroic and confident.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen i Spider-Man-drakt, stående foran med maske holdt i den ene hånden. Hold ansiktet så naturlig og realistisk som mulig. Bakgrunn: mørk gradient med mykt spotlight. Lyssetting: dramatisk og ren, som en filmplakat. Stemning: heroisk og selvsikker."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Spider-man studio portrait",
+      "no": "Spider-man studioportrett"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Spider-Man studio portrait",
+        "no": "Spider-Man studioportrett"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-005",
-    "title": "Fire vs water duality (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man, half his body surrounded by fiery orange flames and sparks, the other half drenched in cascading blue water droplets frozen in motion. Keep the face as natural and realistic as possible. Lighting: dramatic contrast between warm fire and cool water. Mood: intense, epic, symbolic of inner conflict.",
-    "category": "Selfies",
-    "subcategory": "Fire vs water duality",
-    "tags": ["male", "Fire vs Water duality", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Brann vs vann-dualitet (hann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man, half his body surrounded by fiery orange flames and sparks, the other half drenched in cascading blue water droplets frozen in motion. Keep the face as natural and realistic as possible. Lighting: dramatic contrast between warm fire and cool water. Mood: intense, epic, symbolic of inner conflict.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen, halve kroppen omgitt av brennende oransje flammer og gnister, den andre halvparten gjennomvåt av brusende blå vanndråper frosset i bevegelse. Hold ansiktet så naturlig og realistisk som mulig. Belysning: dramatisk kontrast mellom varm ild og kaldt vann. Stemning: intens, episk, symbolsk for indre konflikt."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Fire vs water duality",
+      "no": "Brann vs vann dualitet"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Fire vs Water duality",
+        "no": "Brann vs vann dualitet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-006",
-    "title": "Electric power surge (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man, surrounded by arcs of blue lightning and glowing electric energy flowing through his suit. Keep the face as natural and realistic as possible. Background: dark moody studio with subtle sparks. Lighting: glowing highlights, sharp contrasts. Mood: powerful, supernatural, dramatic.",
-    "category": "Selfies",
-    "subcategory": "Electric power surge",
-    "tags": ["male", "Electric power surge", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Elektrisk strømstøt (hann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man, surrounded by arcs of blue lightning and glowing electric energy flowing through his suit. Keep the face as natural and realistic as possible. Background: dark moody studio with subtle sparks. Lighting: glowing highlights, sharp contrasts. Mood: powerful, supernatural, dramatic.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen, omgitt av buer av blått lyn og glødende elektrisk energi som strømmer gjennom drakten hans. Hold ansiktet så naturlig og realistisk som mulig. Bakgrunn: mørkt humørfylt studio med subtile gnister. Belysning: glødende høylys, skarpe kontraster. Stemning: kraftig, overnaturlig, dramatisk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Electric power surge",
+      "no": "Elektrisk strømstøt"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Electric power surge",
+        "no": "Elektrisk strømstøt"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-007",
-    "title": "Flames of determination (male)",
-    "prompt": "A hyper-realistic cinematic scene of this man, standing in the middle of swirling fire, embers rising around him. Keep the face as natural and realistic as possible. Outfit: burned and battle-worn suit glowing with heat. Lighting: fiery orange glow, dramatic highlights. Mood: intense, heroic, unstoppable.",
-    "category": "Selfies",
-    "subcategory": "Flames of determination",
-    "tags": ["male", "Flames of determination", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Bestemmelsesflammer (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic scene of this man, standing in the middle of swirling fire, embers rising around him. Keep the face as natural and realistic as possible. Outfit: burned and battle-worn suit glowing with heat. Lighting: fiery orange glow, dramatic highlights. Mood: intense, heroic, unstoppable.",
+      "no": "En hyperrealistisk filmscene av denne mannen, som står midt i virvlende ild, og glør stiger rundt ham. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: brent og kampslitt drakt som lyser av varme. Belysning: brennende oransje glød, dramatiske høydepunkter. Stemning: intens, heroisk, ustoppelig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Flames of determination",
+      "no": "Flammer av besluttsomhet"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Flames of determination",
+        "no": "Flammer av besluttsomhet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-008",
-    "title": "Water warrior (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man, standing with crashing waves behind him, drenched in water. Keep the face as natural and realistic as possible. Outfit: dark suit clinging to the body. Lighting: cool blue tones with mist and droplets frozen mid-air. Mood: calm yet powerful, elemental strength.",
-    "category": "Selfies",
-    "subcategory": "Water warrior",
-    "tags": ["male", "Water warrior", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Vannkriger (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man, standing with crashing waves behind him, drenched in water. Keep the face as natural and realistic as possible. Outfit: dark suit clinging to the body. Lighting: cool blue tones with mist and droplets frozen mid-air. Mood: calm yet powerful, elemental strength.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen, stående med bølgeskvulp bak seg, gjennomvåt i vann. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: mørk dress klamrer seg til kroppen. Belysning: kjølige blåtoner med tåke og dråper frosset i luften. Stemning: rolig, men kraftig, elementær styrke."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Water warrior",
+      "no": "Vannkriger"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Water warrior",
+        "no": "Vannkriger"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-009",
-    "title": "Stormbringer (male)",
-    "prompt": "A hyper-realistic cinematic scene of this man standing with arms outstretched in the middle of a thunderstorm, rain pouring down, lightning bolts striking behind him. Keep the face as natural and realistic as possible. Outfit: dark armored suit. Lighting: dramatic cinematic storm glow. Mood: epic, godlike, powerful.",
-    "category": "Selfies",
-    "subcategory": "Stormbringer",
-    "tags": ["male", "Stormbringer", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Stormbringer (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic scene of this man standing with arms outstretched in the middle of a thunderstorm, rain pouring down, lightning bolts striking behind him. Keep the face as natural and realistic as possible. Outfit: dark armored suit. Lighting: dramatic cinematic storm glow. Mood: epic, godlike, powerful.",
+      "no": "En hyperrealistisk filmscene av denne mannen som står med armene utstrakt midt i et tordenvær, regnet pøser ned, lynnedslag bak ham. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: mørk pansret drakt. Lyssetting: dramatisk filmisk stormglød. Stemning: episk, gudelignende, kraftig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Stormbringer",
+      "no": "Stormbringer"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Stormbringer",
+        "no": "Stormbringer"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-010",
-    "title": "Elemental fusion (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man, surrounded by elemental energy — fire swirling on one side, crashing water on the other, and blue lightning crackling above. Keep the face as natural and realistic as possible. Background: dark cinematic void with glowing energy. Mood: legendary, unstoppable, inspired by fantasy and superhero movie posters.",
-    "category": "Selfies",
-    "subcategory": "Elemental fusion",
-    "tags": ["male", "Elemental fusion", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Elementær fusjon (hann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man, surrounded by elemental energy — fire swirling on one side, crashing water on the other, and blue lightning crackling above. Keep the face as natural and realistic as possible. Background: dark cinematic void with glowing energy. Mood: legendary, unstoppable, inspired by fantasy and superhero movie posters.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen, omgitt av elementær energi - ild som virvler på den ene siden, krasjer vann på den andre, og blått lyn som knitrer over. Hold ansiktet så naturlig og realistisk som mulig. Bakgrunn: mørkt filmatisk tomrom med glødende energi. Stemning: legendarisk, ustoppelig, inspirert av fantasy- og superheltfilmplakater."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Elemental fusion",
+      "no": "Elementær fusjon"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Elemental fusion",
+        "no": "Elementær fusjon"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-extra-001",
-    "title": "Cyberpunk warrior (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man in a futuristic cyberpunk city at night. Neon lights reflect on his face, rain falling, holographic ads glowing in the background. Outfit: futuristic armored jacket with glowing circuits. Keep the face as natural and realistic as possible. Lighting: neon blue and pink tones, dramatic contrast. Mood: futuristic, gritty, unstoppable.",
-    "category": "Selfies",
-    "subcategory": "Cyberpunk warrior",
-    "tags": ["male", "Cyberpunk warrior", "face-preservation"]
+    "title": {
+      "en": "Cyberpunk / Cybernetic portrait",
+      "no": "Cyberpunk kriger (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man in a futuristic cyberpunk city at night. Neon lights reflect on his face, rain falling, holographic ads glowing in the background. Outfit: futuristic armored jacket with glowing circuits. Keep the face as natural and realistic as possible. Lighting: neon blue and pink tones, dramatic contrast. Mood: futuristic, gritty, unstoppable.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen i en futuristisk cyberpunk-by om natten. Neonlys reflekterer i ansiktet hans, regnet faller, holografiske annonser lyser i bakgrunnen. Antrekk: futuristisk pansret jakke med glødende kretser. Hold ansiktet så naturlig og realistisk som mulig. Belysning: neonblå og rosa toner, dramatisk kontrast. Stemning: futuristisk, modig, ustoppelig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Cyberpunk warrior",
+      "no": "Cyberpunk kriger"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Cyberpunk warrior",
+        "no": "Cyberpunk kriger"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-extra-002",
-    "title": "Viking warrior (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man as a Viking warrior. Keep the face as natural and realistic as possible. Outfit: fur cloak and leather armor, axe resting on his shoulder. Background: stormy Nordic landscape with crashing waves and mountains. Lighting: dramatic with cold blue tones and fire glow from torches. Mood: fierce, heroic, legendary.",
-    "category": "Selfies",
-    "subcategory": "Viking warrior",
-    "tags": ["male", "Viking warrior", "face-preservation"]
+    "title": {
+      "en": "Viking berserker portrait",
+      "no": "Viking kriger (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man as a Viking warrior. Keep the face as natural and realistic as possible. Outfit: fur cloak and leather armor, axe resting on his shoulder. Background: stormy Nordic landscape with crashing waves and mountains. Lighting: dramatic with cold blue tones and fire glow from torches. Mood: fierce, heroic, legendary.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen som en vikingkriger. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: pelskappe og skinnrustning, øks hviler på skulderen. Bakgrunn: stormfullt nordisk landskap med bølger og fjell. Lyssetting: dramatisk med kalde blåtoner og ildglød fra fakler. Stemning: heftig, heroisk, legendarisk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Viking warrior",
+      "no": "Viking kriger"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Viking warrior",
+        "no": "Viking kriger"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-extra-003",
-    "title": "Samurai in the rain (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man as a samurai. Keep the face as natural and realistic as possible. Outfit: detailed samurai armor, sword held firmly. Background: Japanese temple gates blurred in heavy rain. Lighting: cinematic with soft reflections on wet surfaces. Mood: calm, disciplined, honorable.",
-    "category": "Selfies",
-    "subcategory": "Samurai in the rain",
-    "tags": ["male", "Samurai in the rain", "face-preservation"]
+    "title": {
+      "en": "Samurai warrior portrait",
+      "no": "Samurai i regnet (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man as a samurai. Keep the face as natural and realistic as possible. Outfit: detailed samurai armor, sword held firmly. Background: Japanese temple gates blurred in heavy rain. Lighting: cinematic with soft reflections on wet surfaces. Mood: calm, disciplined, honorable.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen som en samurai. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: detaljert samurai-rustning, sverdet holdt godt fast. Bakgrunn: Japanske tempelporter uskarpe i kraftig regn. Lyssetting: filmisk med myke refleksjoner på våte overflater. Stemning: rolig, disiplinert, hederlig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Samurai in the rain",
+      "no": "Samurai i regnet"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Samurai in the rain",
+        "no": "Samurai i regnet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-extra-004",
-    "title": "Post-apocalyptic survivor (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man as a survivor in a post-apocalyptic world. Keep the face as natural and realistic as possible. Outfit: worn leather jacket with tactical gear, dust and scratches visible. Background: ruined city skyline with smoke and fire. Lighting: gritty and dramatic, orange glow from fires. Mood: resilient, intense, battle-hardened.",
-    "category": "Selfies",
-    "subcategory": "Post-apocalyptic survivor",
-    "tags": ["male", "Post-apocalyptic survivor", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Post-apokalyptisk overlevende (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man as a survivor in a post-apocalyptic world. Keep the face as natural and realistic as possible. Outfit: worn leather jacket with tactical gear, dust and scratches visible. Background: ruined city skyline with smoke and fire. Lighting: gritty and dramatic, orange glow from fires. Mood: resilient, intense, battle-hardened.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen som en overlevende i en postapokalyptisk verden. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: slitt skinnjakke med taktisk utstyr, støv og riper synlig. Bakgrunn: ødelagt bysilhuett med røyk og ild. Belysning: grynete og dramatisk, oransje glød fra branner. Stemning: spenstig, intens, kampherdet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Post-apocalyptic survivor",
+      "no": "Post-apokalyptisk overlevende"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Post-apocalyptic survivor",
+        "no": "Post-apokalyptisk overlevende"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-extra-005",
-    "title": "Astronaut explorer (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man as an astronaut. Keep the face as natural and realistic as possible, visible inside the helmet. Suit: futuristic space suit with glowing details. Background: alien planet landscape with two moons and glowing atmosphere. Lighting: cosmic glow reflecting on the visor. Mood: epic, adventurous, awe-inspiring.",
-    "category": "Selfies",
-    "subcategory": "Astronaut explorer",
-    "tags": ["male", "Astronaut explorer", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Astronaut explorer (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man as an astronaut. Keep the face as natural and realistic as possible, visible inside the helmet. Suit: futuristic space suit with glowing details. Background: alien planet landscape with two moons and glowing atmosphere. Lighting: cosmic glow reflecting on the visor. Mood: epic, adventurous, awe-inspiring.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen som astronaut. Hold ansiktet så naturlig og realistisk som mulig, synlig inne i hjelmen. Dress: futuristisk romdrakt med glødende detaljer. Bakgrunn: fremmed planetlandskap med to måner og glødende atmosfære. Belysning: kosmisk glød som reflekteres på visiret. Stemning: episk, eventyrlig, fryktinngytende."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Astronaut explorer",
+      "no": "Astronaut oppdagelsesreisende"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Astronaut explorer",
+        "no": "Astronaut oppdagelsesreisende"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-extra-006",
-    "title": "Noir detective (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man as a noir detective. Keep the face as natural and realistic as possible. Outfit: long dark trench coat, fedora hat, cigarette in hand. Background: rainy city street at night, neon signs glowing. Lighting: dramatic film noir style with strong shadows. Mood: mysterious, gritty, stylish.",
-    "category": "Selfies",
-    "subcategory": "Noir detective",
-    "tags": ["male", "Noir detective", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Noir-detektiv (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man as a noir detective. Keep the face as natural and realistic as possible. Outfit: long dark trench coat, fedora hat, cigarette in hand. Background: rainy city street at night, neon signs glowing. Lighting: dramatic film noir style with strong shadows. Mood: mysterious, gritty, stylish.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen som noir-detektiv. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: lang mørk trenchcoat, fedorahatt, sigarett i hånden. Bakgrunn: regnfull bygate om natten, neonskilt gløder. Lyssetting: dramatisk film noir-stil med sterke skygger. Stemning: mystisk, modig, stilig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Noir detective",
+      "no": "Noir-detektiv"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Noir detective",
+        "no": "Noir-detektiv"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-extra-007",
-    "title": "Gladiator in the arena (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man as a gladiator. Keep the face as natural and realistic as possible. Outfit: ancient Roman armor with scratches, sword and shield in hand. Background: Colosseum filled with blurred crowds and dust rising in the air. Lighting: golden sunlight with dramatic shadows. Mood: powerful, heroic, timeless.",
-    "category": "Selfies",
-    "subcategory": "Gladiator in the arena",
-    "tags": ["male", "Gladiator in the arena", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Gladiator i arenaen (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man as a gladiator. Keep the face as natural and realistic as possible. Outfit: ancient Roman armor with scratches, sword and shield in hand. Background: Colosseum filled with blurred crowds and dust rising in the air. Lighting: golden sunlight with dramatic shadows. Mood: powerful, heroic, timeless.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen som gladiator. Hold ansiktet så naturlig og realistisk som mulig. Antrekk: gammel romersk rustning med riper, sverd og skjold i hånden. Bakgrunn: Colosseum fylt med uskarpe folkemengder og støv som stiger i luften. Belysning: gyllent sollys med dramatiske skygger. Stemning: kraftig, heroisk, tidløs."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Gladiator in the arena",
+      "no": "Gladiator på arenaen"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Gladiator in the arena",
+        "no": "Gladiator på arenaen"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "cin-extra-008",
-    "title": "Shadow assassin (male)",
-    "prompt": "A hyper-realistic cinematic portrait of this man as a masked assassin. Keep the face as natural and realistic as possible, partly hidden under a hood. Outfit: dark tactical armor with hidden weapons. Background: rooftops at night with glowing city lights blurred. Lighting: dramatic low-key, glowing eyes visible through shadows. Mood: stealthy, dangerous, cinematic.",
-    "category": "Selfies",
-    "subcategory": "Shadow assassin",
-    "tags": ["male", "Shadow assassin", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Skyggemorder (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic portrait of this man as a masked assassin. Keep the face as natural and realistic as possible, partly hidden under a hood. Outfit: dark tactical armor with hidden weapons. Background: rooftops at night with glowing city lights blurred. Lighting: dramatic low-key, glowing eyes visible through shadows. Mood: stealthy, dangerous, cinematic.",
+      "no": "Et hyperrealistisk filmportrett av denne mannen som en maskert leiemorder. Hold ansiktet så naturlig og realistisk som mulig, delvis skjult under en hette. Antrekk: mørk taktisk rustning med skjulte våpen. Bakgrunn: hustak om natten med lysende bylys uskarpt. Belysning: dramatisk lavmælt, glødende øyne synlig gjennom skygger. Stemning: snikende, farlig, filmatisk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Shadow assassin",
+      "no": "Skyggemorder"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "Shadow assassin",
+        "no": "Skyggemorder"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "men-013",
-    "title": "Cinematic (male)",
-    "prompt": "A hyper-realistic cinematic close-up portrait of this man. Keep the face completely natural and realistic, sharp focus on eyes and skin texture. Background: dark gradient fading into black. Lighting: soft studio key light from the side with subtle shadows. Mood: professional, calm, confident.",
-    "category": "Selfies",
-    "subcategory": "Cinematic",
-    "tags": ["male", "cinematic", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Kinematisk (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic close-up portrait of this man. Keep the face completely natural and realistic, sharp focus on eyes and skin texture. Background: dark gradient fading into black. Lighting: soft studio key light from the side with subtle shadows. Mood: professional, calm, confident.",
+      "no": "Et hyperrealistisk filmisk nærbildeportrett av denne mannen. Hold ansiktet helt naturlig og realistisk, skarpt fokus på øyne og hudtekstur. Bakgrunn: mørk gradient som blekner til svart. Belysning: mykt studiotastlys fra siden med subtile skygger. Stemning: profesjonell, rolig, selvsikker."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Cinematic",
+      "no": "Kinematisk"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "men-014",
-    "title": "Cinematic (male)",
-    "prompt": "A hyper-realistic cinematic close-up portrait of this man. Keep the face highly realistic, detailed skin texture, natural beard. Background: deep black void. Lighting: strong low-key with one dramatic side light creating contrast and depth. Mood: intense, powerful, cinematic.",
-    "category": "Selfies",
-    "subcategory": "Cinematic",
-    "tags": ["male", "cinematic", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Kinematisk (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic close-up portrait of this man. Keep the face highly realistic, detailed skin texture, natural beard. Background: deep black void. Lighting: strong low-key with one dramatic side light creating contrast and depth. Mood: intense, powerful, cinematic.",
+      "no": "Et hyperrealistisk filmisk nærbildeportrett av denne mannen. Hold ansiktet svært realistisk, detaljert hudtekstur, naturlig skjegg. Bakgrunn: dypt svart tomrom. Belysning: sterk lavmælt med ett dramatisk sidelys som skaper kontrast og dybde. Stemning: intens, kraftig, filmatisk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Cinematic",
+      "no": "Kinematisk"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "men-015",
-    "title": "Cinematic (male)",
-    "prompt": "A hyper-realistic cinematic headshot portrait of this man. Keep the face natural and sharp, with realistic details in skin and eyes. Background: blurred warm gradient with subtle bokeh. Lighting: cinematic soft glow from above and side, flattering and natural. Mood: thoughtful, approachable, timeless.",
-    "category": "Selfies",
-    "subcategory": "Cinematic",
-    "tags": ["male", "cinematic", "face-preservation"]
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Kinematisk (mann)"
+    },
+    "prompt": {
+      "en": "A hyper-realistic cinematic headshot portrait of this man. Keep the face natural and sharp, with realistic details in skin and eyes. Background: blurred warm gradient with subtle bokeh. Lighting: cinematic soft glow from above and side, flattering and natural. Mood: thoughtful, approachable, timeless.",
+      "no": "Et hyperrealistisk filmisk hodebildeportrett av denne mannen. Hold ansiktet naturlig og skarpt, med realistiske detaljer i hud og øyne. Bakgrunn: uskarp varm gradient med subtil bokeh. Lyssetting: filmisk myk glød ovenfra og fra siden, flatterende og naturlig. Stemning: gjennomtenkt, imøtekommende, tidløs."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Cinematic",
+      "no": "Kinematisk"
+    },
+    "tags": [
+      {
+        "en": "male",
+        "no": "mann"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ]
   },
   {
     "id": "selfie-0001",
-    "title": "Business Portrait (Male)",
-    "prompt": "Professional studio portrait of a man wearing a black blazer and white shirt, slightly open collar. Dark background, cinematic lighting, realistic facial features preserved. Corporate but dramatic look.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Bedriftsportrett (mann)"
+    },
+    "prompt": {
+      "en": "Professional studio portrait of a man wearing a black blazer and white shirt, slightly open collar. Dark background, cinematic lighting, realistic facial features preserved. Corporate but dramatic look.",
+      "no": "Profesjonelt studioportrett av en mann iført svart blazer og hvit skjorte, lett åpen krage. Mørk bakgrunn, filmisk belysning, realistiske ansiktstrekk bevart. Corporate, men dramatisk utseende."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0002",
-    "title": "Business Portrait (Female)",
-    "prompt": "Professional studio portrait of a woman wearing a black blazer and white blouse. Dark background, cinematic light, natural facial features preserved. Corporate portrait photography style.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Forretningsportrett (kvinne)"
+    },
+    "prompt": {
+      "en": "Professional studio portrait of a woman wearing a black blazer and white blouse. Dark background, cinematic light, natural facial features preserved. Corporate portrait photography style.",
+      "no": "Profesjonelt studioportrett av en kvinne iført en svart blazer og hvit bluse. Mørk bakgrunn, filmisk lys, naturlige ansiktstrekk bevart. Bedriftsportrettfotograferingsstil."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0003",
-    "title": "Cinematic Close-up",
-    "prompt": "Ultra-realistic 8K close-up portrait of a rugged man with wet skin glistening under dramatic cinematic lighting. Intense focus on one eye with sharp iris detail, strong skin texture, high contrast between light and shadow.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Kinematisk nærbilde"
+    },
+    "prompt": {
+      "en": "Ultra-realistic 8K close-up portrait of a rugged man with wet skin glistening under dramatic cinematic lighting. Intense focus on one eye with sharp iris detail, strong skin texture, high contrast between light and shadow.",
+      "no": "Ultrarealistisk 8K nærbildeportrett av en røff mann med våt hud som glinser under dramatisk filmlys. Intens fokus på ett øye med skarpe irisdetaljer, sterk hudtekstur, høy kontrast mellom lys og skygge."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0004",
-    "title": "Cyberpunk Glow",
-    "prompt": "Cinematic cyberpunk portrait of a man with glowing neon lights reflecting on his face, futuristic city skyline in the background. Natural face preserved, styled with dramatic blue and pink light.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cyberpunk / Cybernetic portrait",
+      "no": "Cyberpunk Glow"
+    },
+    "prompt": {
+      "en": "Cinematic cyberpunk portrait of a man with glowing neon lights reflecting on his face, futuristic city skyline in the background. Natural face preserved, styled with dramatic blue and pink light.",
+      "no": "Filmatisk cyberpunk-portrett av en mann med glødende neonlys som reflekterer i ansiktet hans, futuristisk bysilhuett i bakgrunnen. Naturlig ansikt bevart, stylet med dramatisk blått og rosa lys."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0005",
-    "title": "Survivor Portrait",
-    "prompt": "Hyper-realistic cinematic portrait of a survivor in a post-apocalyptic world. Worn leather jacket with tactical gear, dust and scratches on skin, gritty dramatic orange lighting from fires. Natural facial features preserved.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Overlevende portrett"
+    },
+    "prompt": {
+      "en": "Hyper-realistic cinematic portrait of a survivor in a post-apocalyptic world. Worn leather jacket with tactical gear, dust and scratches on skin, gritty dramatic orange lighting from fires. Natural facial features preserved.",
+      "no": "Hyperrealistisk filmatisk portrett av en overlevende i en postapokalyptisk verden. Slitt skinnjakke med taktisk utstyr, støv og riper på huden, skarp dramatisk oransje belysning fra branner. Naturlige ansiktstrekk bevart."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0006",
-    "title": "Katana Warrior (Male)",
-    "prompt": "Stylish cinematic portrait of a man in a black suit with a loosened tie, holding two katana swords. Sunglasses, confident stance. Background: ruined futuristic city. Dramatic cinematic lighting.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Katana Warrior (mann)"
+    },
+    "prompt": {
+      "en": "Stylish cinematic portrait of a man in a black suit with a loosened tie, holding two katana swords. Sunglasses, confident stance. Background: ruined futuristic city. Dramatic cinematic lighting.",
+      "no": "Stilig filmportrett av en mann i svart dress med et løst slips, som holder to katana-sverd. Solbriller, selvsikker holdning. Bakgrunn: ødelagt futuristisk by. Dramatisk filmisk lyssetting."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0007",
-    "title": "Katana Constantine",
-    "prompt": "Constantine-inspired cinematic portrait of a man in a white shirt, loose black tie, holding a katana. Dark moody background with supernatural atmosphere. Dramatic shadows, glowing faint embers.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Katana Konstantin"
+    },
+    "prompt": {
+      "en": "Constantine-inspired cinematic portrait of a man in a white shirt, loose black tie, holding a katana. Dark moody background with supernatural atmosphere. Dramatic shadows, glowing faint embers.",
+      "no": "Konstantin-inspirert filmatisk portrett av en mann i hvit skjorte, løst svart slips, som holder en katana. Mørk humørfylt bakgrunn med overnaturlig atmosfære. Dramatiske skygger, lysende svake glør."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0008",
-    "title": "Audi RS6 Neon Shot",
-    "prompt": "Cinematic portrait of a man leaning against a matte black Audi RS6 Avant with blue neon underglow. Dark city background, dramatic neon lighting. Natural face preserved, stylish cinematic framing.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Audi RS6 Neon Shot"
+    },
+    "prompt": {
+      "en": "Cinematic portrait of a man leaning against a matte black Audi RS6 Avant with blue neon underglow. Dark city background, dramatic neon lighting. Natural face preserved, stylish cinematic framing.",
+      "no": "Filmatisk portrett av en mann lener seg mot en matt svart Audi RS6 Avant med blå neon underglød. Mørk bybakgrunn, dramatisk neonbelysning. Naturlig ansiktsbevart, stilig filminnramming."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0009",
-    "title": "Gangster Noir",
-    "prompt": "Stylized black and white cinematic portrait of a man in a fedora hat, holding a cigar with smoke curling upward. Dramatic shadows, neon-lit rainy city background. Classic noir movie aesthetic.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Gangster Noir"
+    },
+    "prompt": {
+      "en": "Stylized black and white cinematic portrait of a man in a fedora hat, holding a cigar with smoke curling upward. Dramatic shadows, neon-lit rainy city background. Classic noir movie aesthetic.",
+      "no": "Stilisert svart-hvitt filmatisk portrett av en mann i en fedorahatt, som holder en sigar med røyk som krøller seg oppover. Dramatiske skygger, neonopplyst regnfull bybakgrunn. Klassisk noir-filmestetikk."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0010",
-    "title": "Boxing Champion",
-    "prompt": "Cinematic portrait of a man in boxing gloves, sweat dripping, cuts and bruises visible. Harsh ring lights above, gritty and intense atmosphere like a fight night champion photo.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Boksemester"
+    },
+    "prompt": {
+      "en": "Cinematic portrait of a man in boxing gloves, sweat dripping, cuts and bruises visible. Harsh ring lights above, gritty and intense atmosphere like a fight night champion photo.",
+      "no": "Filmatisk portrett av en mann i boksehansker, svette drypper, kutt og blåmerker synlige. Kraftige ringlys over, grumsete og intens atmosfære som et bilde av en mester i en kampnatt."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0011",
-    "title": "Racing Driver",
-    "prompt": "Epic cinematic portrait of a man in a racing suit, holding a helmet under one arm. Neon race track background with glowing lights and blurred motion. Hyperrealistic reflections on visor.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Racing sjåfør"
+    },
+    "prompt": {
+      "en": "Epic cinematic portrait of a man in a racing suit, holding a helmet under one arm. Neon race track background with glowing lights and blurred motion. Hyperrealistic reflections on visor.",
+      "no": "Episk filmatisk portrett av en mann i racerdress, med en hjelm under den ene armen. Neon racerbanebakgrunn med glødende lys og uskarpe bevegelser. Hyperrealistiske refleksjoner på visir."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0012",
-    "title": "Mafia Boss",
-    "prompt": "Cinematic portrait of a man sitting in a leather armchair, glass of whiskey in one hand, shadowy room with blinds casting dramatic light. Dark mafia boss aesthetic with serious mood.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Mafiasjef"
+    },
+    "prompt": {
+      "en": "Cinematic portrait of a man sitting in a leather armchair, glass of whiskey in one hand, shadowy room with blinds casting dramatic light. Dark mafia boss aesthetic with serious mood.",
+      "no": "Filmatisk portrett av en mann som sitter i en skinnlenestol, glass whisky i den ene hånden, skyggefullt rom med persienner som kaster dramatisk lys. Mørk mafiaboss-estetikk med seriøst humør."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0013",
-    "title": "Knighted Hero",
-    "prompt": "Hyperrealistic cinematic portrait of a man in medieval armor, sword in hand, dramatic light from a fiery sunset over a castle. Strong heroic atmosphere, battle-worn but noble expression.",
-    "category": "Creative Portraits",
-    "subcategory": "Selfies",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Knighted Hero"
+    },
+    "prompt": {
+      "en": "Hyperrealistic cinematic portrait of a man in medieval armor, sword in hand, dramatic light from a fiery sunset over a castle. Strong heroic atmosphere, battle-worn but noble expression.",
+      "no": "Hyperrealistisk filmportrett av en mann i middelalderrustning, sverd i hånd, dramatisk lys fra en brennende solnedgang over et slott. Sterk heroisk atmosfære, kampslitt, men edelt uttrykk."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
     "tags": []
   },
   {
     "id": "selfie-0014",
-    "title": "Cyberpunk Neon Dream",
-    "prompt": "A close-up selfie of me, reflected in a rain-streaked window, with blurred city lights and distant skyscrapers visible behind. My expression is thoughtful, framed by the wet glass. My natural face should be preserved.",
-    "category": "Selfies",
-    "subcategory": "Urban & Futuristic",
+    "title": {
+      "en": "Cyberpunk Neon Dream",
+      "no": "Cyberpunk Neon Dream"
+    },
+    "prompt": {
+      "en": "A close-up selfie of me, reflected in a rain-streaked window, with blurred city lights and distant skyscrapers visible behind. My expression is thoughtful, framed by the wet glass. My natural face should be preserved.",
+      "no": "En nærbilde-selfie av meg, reflektert i et regnstripete vindu, med uskarpt bylys og fjerne skyskrapere synlig bak. Uttrykket mitt er gjennomtenkt, innrammet av det våte glasset. Mitt naturlige ansikt skal bevares."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Futuristic",
+      "no": "Urban og futuristisk"
+    },
     "tags": []
   },
   {
     "id": "selfie-0015",
-    "title": "Mystic Forest Glow",
-    "prompt": "Close-up of my face, partially obscured by soft, glowing leaves and mist. Sunlight filters through ancient trees, catching my features. I wear a subtle, moss-covered circlet on my head, giving a serene, almost elven look. Ethereal and calm. My natural face should be preserved.",
-    "category": "Selfies",
-    "subcategory": "Fantasy & Nature",
+    "title": {
+      "en": "Mystic Forest Glow",
+      "no": "Mystic Forest Glow"
+    },
+    "prompt": {
+      "en": "Close-up of my face, partially obscured by soft, glowing leaves and mist. Sunlight filters through ancient trees, catching my features. I wear a subtle, moss-covered circlet on my head, giving a serene, almost elven look. Ethereal and calm. My natural face should be preserved.",
+      "no": "Nærbilde av ansiktet mitt, delvis skjult av myke, glødende blader og tåke. Sollyset filtrerer gjennom eldgamle trær og fanger trekkene mine. Jeg bærer en subtil, mosekledd sirkel på hodet, som gir et rolig, nesten alveutseende. Eterisk og rolig. Mitt naturlige ansikt skal bevares."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Fantasy & Nature",
+      "no": "Fantasi og natur"
+    },
     "tags": []
   },
   {
     "id": "selfie-0016",
-    "title": "Vintage Hollywood Noir",
-    "prompt": "A dramatic black and white close-up, inspired by classic film noir. My face is lit from the side by a single, sharp light source, casting strong shadows. I'm wearing a classic fedora and have a contemplative, mysterious gaze. My natural face should be preserved.",
-    "category": "Selfies",
-    "subcategory": "Retro & Noir",
+    "title": {
+      "en": "Noir detective portrait",
+      "no": "Vintage Hollywood Noir"
+    },
+    "prompt": {
+      "en": "A dramatic black and white close-up, inspired by classic film noir. My face is lit from the side by a single, sharp light source, casting strong shadows. I'm wearing a classic fedora and have a contemplative, mysterious gaze. My natural face should be preserved.",
+      "no": "Et dramatisk svart-hvitt nærbilde, inspirert av klassisk film noir. Ansiktet mitt er opplyst fra siden av en enkelt, skarp lyskilde som kaster sterke skygger. Jeg har på meg en klassisk fedora og har et kontemplativt, mystisk blikk. Mitt naturlige ansikt skal bevares."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Retro & Noir",
+      "no": "Retro og noir"
+    },
     "tags": []
   },
   {
     "id": "selfie-0017",
-    "title": "Night City Blur",
-    "prompt": "A dynamic shot of me walking briskly down a busy city street at night. I am wearing a stylish dark bomber jacket over a t-shirt, dark slim-fit jeans, and cool sneakers. Long exposure blurs the car lights and neon signs in the background into vibrant streaks of color, while I remain sharp in focus, conveying a strong sense of energy and urban movement. My natural face should be preserved.",
-    "category": "Selfies",
-    "subcategory": "Urban & Dynamic",
-    "tags": []
-  },
-  {
-    "id": "selfie-0018",
-    "title": "Business Street Style",
-    "prompt": "A dynamic business shot of a woman walking purposefully down a bustling city street. She is dressed in a sharp business suit (e.g., blazer, skirt/trousers, blouse). The background shows blurred city life and movement, while she remains sharp in focus. She looks forward with a determined and focused expression, conveying ambition and drive. Her facial features are natural and clearly recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Business & Urban",
-    "tags": []
-  },
-  {
-    "id": "selfie-0019",
-    "title": "Business Office Portrait",
-    "prompt": "A professional business portrait of a woman in a modern office environment. She is wearing a sharp, tailored dark suit with a crisp white shirt. She stands confidently by an elegant desk, with a blurred cityscape visible through a large window in the background. She looks directly at the camera with a confident, approachable smile. Her facial features are natural and clearly recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Business & Professional",
-    "tags": []
-  },
-  {
-    "id": "selfie-0020",
-    "title": "Business Mirror Studio",
-    "prompt": "A sophisticated full-body business portrait of a woman in a modern studio setting. She is wearing a sharp, tailored business suit (e.g., a dark blazer, crisp white shirt, and matching trousers or skirt) and stands confidently in front of large, clean studio mirrors. Her reflection is clearly visible, adding depth and a stylish visual element. She looks directly at the camera with a confident, poised, and professional expression. Her facial features are natural and clearly recognizable.",
-    "category": "Selfies",
-    "subcategory": "Business & Studio",
-    "tags": []
-  },
-  {
-    "id": "selfie-0021",
-    "title": "Business Skyline Sunset",
-    "prompt": "A cinematic full-body portrait of the same woman from the reference image, keeping her exact facial features, hair, and natural look fully preserved. She wears a sleek, tailored dark business suit with a white blouse and stands in front of a floor-to-ceiling glass window high above the city skyline. Behind her, a dramatic sunset paints the sky in warm orange and deep purple tones, vividly reflecting in the glass around her. Her reflection in the window is sharp and elegant, doubling the visual impact. The golden light highlights her natural beauty and professionalism, creating a powerful, stylish, and cinematic business atmosphere.",
-    "category": "Selfies",
-    "subcategory": "Business & Cinematic",
+    "title": {
+      "en": "Night City Blur",
+      "no": "Night City Blur"
+    },
+    "prompt": {
+      "en": "A dynamic shot of me walking briskly down a busy city street at night. I am wearing a stylish dark bomber jacket over a t-shirt, dark slim-fit jeans, and cool sneakers. Long exposure blurs the car lights and neon signs in the background into vibrant streaks of color, while I remain sharp in focus, conveying a strong sense of energy and urban movement. My natural face should be preserved.",
+      "no": "Et dynamisk bilde av meg som går raskt nedover en travel bygate om natten. Jeg har på meg en stilig mørk bomberjakke over en t-skjorte, mørke slim-fit jeans og kule sneakers. Lang eksponering gjør billysene og neonskiltene i bakgrunnen uskarpe til levende fargestriper, mens jeg forblir skarp i fokus, og formidler en sterk følelse av energi og urban bevegelse. Mitt naturlige ansikt skal bevares."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Dynamic",
+      "no": "Urban og dynamisk"
+    },
     "tags": []
   },
   {
     "id": "selfie-0022",
-    "title": "Mafia Boss Chair",
-    "prompt": "A sophisticated, moody shot of me in a classic 'mafia boss' style. I am seated, leaning back confidently, in a luxurious dark leather armchair in a dimly lit, richly decorated room. I look directly into the camera with an intense, self-assured expression. I hold a glass of amber whiskey in one hand, resting it casually on the armrest of the chair, and a lit cigar in the other. Wisps of smoke elegantly curl past my face from the cigar. A single shaft of dramatic, soft light streams in from a window, illuminating one side of my face. My natural face should be preserved.",
-    "category": "Selfies",
-    "subcategory": "Cinematic & Dramatic",
+    "title": {
+      "en": "Casual selfie – natural look",
+      "no": "Mafia Boss Chair"
+    },
+    "prompt": {
+      "en": "A sophisticated, moody shot of me in a classic 'mafia boss' style. I am seated, leaning back confidently, in a luxurious dark leather armchair in a dimly lit, richly decorated room. I look directly into the camera with an intense, self-assured expression. I hold a glass of amber whiskey in one hand, resting it casually on the armrest of the chair, and a lit cigar in the other. Wisps of smoke elegantly curl past my face from the cigar. A single shaft of dramatic, soft light streams in from a window, illuminating one side of my face. My natural face should be preserved.",
+      "no": "Et sofistikert, humørfylt bilde av meg i en klassisk 'mafiaboss'-stil. Jeg sitter, lener meg selvsikkert tilbake, i en luksuriøs lenestol i mørkt skinn i et svakt opplyst, rikt dekorert rom. Jeg ser rett inn i kameraet med et intenst, selvsikkert uttrykk. Jeg holder et glass rav whisky i den ene hånden, hviler det uformelt på armlenet på stolen, og en tent sigar i den andre. Røykvisper krøller elegant forbi ansiktet mitt fra sigaren. En enkelt skaft av dramatisk, mykt lys strømmer inn fra et vindu og lyser opp den ene siden av ansiktet mitt. Mitt naturlige ansikt skal bevares."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Cinematic & Dramatic",
+      "no": "Kinematisk og dramatisk"
+    },
     "tags": []
   },
   {
     "id": "selfie-0023",
-    "title": "Glamorous Red Carpet",
-    "prompt": "A full-body shot of a woman on a red carpet at a movie premiere, embodying a glamorous film star. She is wearing a stunning, long, gold-colored evening gown that shimmers under the paparazzi flashes. Her makeup is flawless, and she looks directly at the camera with a confident, radiant smile. The background is a blur of camera flashes and elegant event decor. Her facial features are natural and recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Film & Glamour",
+    "title": {
+      "en": "Glamorous red carpet portrait",
+      "no": "Glamorøs rød løper"
+    },
+    "prompt": {
+      "en": "A full-body shot of a woman on a red carpet at a movie premiere, embodying a glamorous film star. She is wearing a stunning, long, gold-colored evening gown that shimmers under the paparazzi flashes. Her makeup is flawless, and she looks directly at the camera with a confident, radiant smile. The background is a blur of camera flashes and elegant event decor. Her facial features are natural and recognizable from the provided image.",
+      "no": "Et helkroppsbilde av en kvinne på en rød løper på en filmpremiere, som legemliggjør en glamorøs filmstjerne. Hun har på seg en fantastisk, lang, gullfarget aftenkjole som glitrer under paparazzi-blitsene. Sminken hennes er feilfri, og hun ser direkte på kameraet med et selvsikkert, strålende smil. Bakgrunnen er en uskarp kamerablits og elegant arrangementsdekor. Ansiktstrekkene hennes er naturlige og gjenkjennelige fra det medfølgende bildet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Film & Glamour",
+      "no": "Film og glamour"
+    },
     "tags": []
   },
   {
     "id": "selfie-0024",
-    "title": "Secret Agent Noir",
-    "prompt": "A full-body shot of a woman as a mysterious secret agent in a dark, rain-streaked, neon-lit city street at night. She is wearing a stylish, dark trench coat. She looks over her shoulder with an intense, enigmatic expression. Reflections from city lights shimmer on the wet asphalt, conveying a sense of intrigue and suspense. Her facial features are natural and recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Urban & Noir",
+    "title": {
+      "en": "Secret Agent Noir",
+      "no": "Hemmelig agent Noir"
+    },
+    "prompt": {
+      "en": "A full-body shot of a woman as a mysterious secret agent in a dark, rain-streaked, neon-lit city street at night. She is wearing a stylish, dark trench coat. She looks over her shoulder with an intense, enigmatic expression. Reflections from city lights shimmer on the wet asphalt, conveying a sense of intrigue and suspense. Her facial features are natural and recognizable from the provided image.",
+      "no": "Et helkroppsbilde av en kvinne som en mystisk hemmelig agent i en mørk, regnstriket, neonbelyst bygate om natten. Hun har på seg en stilig, mørk trenchcoat. Hun ser seg over skulderen med et intenst, gåtefullt uttrykk. Refleksjoner fra bylys glitrer på den våte asfalten, og formidler en følelse av intriger og spenning. Ansiktstrekkene hennes er naturlige og gjenkjennelige fra det medfølgende bildet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Noir",
+      "no": "Urban & Noir"
+    },
     "tags": []
   },
   {
     "id": "selfie-0025",
-    "title": "Adventurous Explorer",
-    "prompt": "A full-body shot of a woman as an adventurous explorer in a lush, ancient jungle ruin. She is dressed in practical yet stylish safari-inspired attire, perhaps with a wide-brimmed hat and a small camera bag. Sunlight filters through dense foliage onto overgrown stone structures. She looks forward with a curious and determined expression, embodying a spirit of discovery. Her facial features are natural and recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Adventure & Nature",
-    "tags": []
-  },
-  {
-    "id": "selfie-0026",
-    "title": "Business Office Confidence",
-    "prompt": "A professional business portrait of a woman in a modern office environment. She is wearing a sharp, tailored dark suit with a crisp white shirt. She stands or sits confidently by an elegant desk, with a blurred cityscape visible through a large window in the background. She looks directly at the camera with a confident, approachable smile. Her facial features are natural and clearly recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Business & Professional",
-    "tags": []
-  },
-  {
-    "id": "selfie-0027",
-    "title": "Dynamic Business Street",
-    "prompt": "A dynamic business shot of a woman walking purposefully down a bustling city street. She is dressed in a sharp business suit (e.g., blazer, skirt/trousers, blouse). The background shows blurred city life and movement, while she remains sharp in focus. She looks forward with a determined and focused expression, conveying ambition and drive. Her facial features are natural and clearly recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Business & Urban",
-    "tags": []
-  },
-  {
-    "id": "selfie-0028",
-    "title": "Conference Room Leader",
-    "prompt": "A powerful business portrait of a woman as a modern leader, seated at a large, sleek conference table in a minimalist meeting room. She is dressed in an elegant and commanding business suit. She looks directly at the camera with a serious, intelligent, and confident expression. Optionally, she could be mid-discussion with a tablet or notebook in front of her. Her facial features are natural and clearly recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Business & Leadership",
-    "tags": []
-  },
-  {
-    "id": "selfie-0029",
-    "title": "Adventurous Explorer",
-    "prompt": "A full-body shot of a woman as an adventurous explorer in a lush, ancient jungle ruin. She is dressed in practical yet stylish safari-inspired attire, perhaps with a wide-brimmed hat and a small camera bag. Sunlight filters through dense foliage onto overgrown stone structures. She looks forward with a curious and determined expression, embodying a spirit of discovery. Her facial features are natural and recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Adventure & Nature",
-    "tags": []
-  },
-  {
-    "id": "selfie-0030",
-    "title": "Secret Agent Noir",
-    "prompt": "A full-body shot of a woman as a mysterious secret agent in a dark, rain-streaked, neon-lit city street at night. She is wearing a stylish, dark trench coat. She looks over her shoulder with an intense, enigmatic expression. Reflections from city lights shimmer on the wet asphalt, conveying a sense of intrigue and suspense. Her facial features are natural and recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Urban & Noir",
-    "tags": []
-  },
-  {
-    "id": "selfie-0031",
-    "title": "Glamorous Red Carpet",
-    "prompt": "A full-body shot of a woman on a red carpet at a movie premiere, embodying a glamorous film star. She is wearing a stunning, long, gold-colored evening gown that shimmers under the paparazzi flashes. Her makeup is flawless, and she looks directly at the camera with a confident, radiant smile. The background is a blur of camera flashes and elegant event decor. Her facial features are natural and recognizable from the provided image.",
-    "category": "Selfies",
-    "subcategory": "Film & Glamour",
-    "tags": []
-  },
-  {
-    "id": "selfie-0032",
-    "title": "Glamorous Red Carpet",
-    "prompt": "A full-body shot of a woman on a red carpet at a movie premiere, embodying a glamorous film star. She is wearing a stunning, long, gold-colored evening gown that shimmers under the paparazzi flashes. Her makeup is flawless, and she looks directly at the camera with a confident, radiant smile. The background is a blur of camera flashes and elegant event decor.",
-    "category": "Selfies",
-    "subcategory": "Film & Glamour",
-    "tags": []
-  },
-  {
-    "id": "selfie-0033",
-    "title": "Secret Agent Noir",
-    "prompt": "A full-body shot of a woman as a mysterious secret agent in a dark, rain-streaked, neon-lit city street at night. She is wearing a stylish, dark trench coat. She looks over her shoulder with an intense, enigmatic expression. Reflections from city lights shimmer on the wet asphalt, conveying a sense of intrigue and suspense.",
-    "category": "Selfies",
-    "subcategory": "Urban & Noir",
-    "tags": []
-  },
-  {
-    "id": "selfie-0034",
-    "title": "Adventurous Explorer",
-    "prompt": "A full-body shot of a woman as an adventurous explorer in a lush, ancient jungle ruin. She is dressed in practical yet stylish safari-inspired attire, perhaps with a wide-brimmed hat and a small camera bag. Sunlight filters through dense foliage onto overgrown stone structures. She looks forward with a curious and determined expression, embodying a spirit of discovery.",
-    "category": "Selfies",
-    "subcategory": "Adventure & Nature",
-    "tags": []
-  },
-  {
-    "id": "selfie-0035",
-    "title": "Mafia Boss Chair",
-    "prompt": "A sophisticated, moody shot of me in a classic 'mafia boss' style. I am seated, leaning back confidently, in a luxurious dark leather armchair in a dimly lit, richly decorated room. I am looking directly into the camera with an intense, self-assured expression. I hold a glass of amber whiskey in one hand, resting it casually on the armrest of the chair, and a lit cigar in the other. Wisps of smoke elegantly curl past my face from the cigar. A single shaft of dramatic, soft light streams in from a window, illuminating one side of my face. The setting is dark and atmospheric, with subtle details in the background. My hair is neatly styled, and my attire is sharp and refined (e.g., a dark suit or a dark open shirt with a blazer).",
-    "category": "Selfies",
-    "subcategory": "Cinematic & Dramatic",
+    "title": {
+      "en": "Adventurous explorer portrait",
+      "no": "Eventyrlystne utforsker"
+    },
+    "prompt": {
+      "en": "A full-body shot of a woman as an adventurous explorer in a lush, ancient jungle ruin. She is dressed in practical yet stylish safari-inspired attire, perhaps with a wide-brimmed hat and a small camera bag. Sunlight filters through dense foliage onto overgrown stone structures. She looks forward with a curious and determined expression, embodying a spirit of discovery. Her facial features are natural and recognizable from the provided image.",
+      "no": "Et helkroppsbilde av en kvinne som en eventyrlysten oppdagelsesreisende i en frodig, eldgammel jungelruin. Hun er kledd i praktisk, men stilig safari-inspirert antrekk, kanskje med bredbremmet hatt og en liten kameraveske. Sollyset filtrerer gjennom tett løvverk på gjengrodde steinstrukturer. Hun ser frem med et nysgjerrig og bestemt uttrykk, som legemliggjør en ånd av oppdagelse. Ansiktstrekkene hennes er naturlige og gjenkjennelige fra det medfølgende bildet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Adventure & Nature",
+      "no": "Eventyr og natur"
+    },
     "tags": []
   },
   {
     "id": "selfie-0036",
-    "title": "Modern Art Gallery",
-    "prompt": "A full-body shot of me, standing in a minimalist modern art gallery or exhibition space. My hair is neatly styled. I'm wearing blue jeans, a white t-shirt, a black blazer, and brown shoes. Large, abstract artworks or sleek installations are visible in the background, with clean, architectural lighting. My stance is confident and contemplative, perhaps leaning subtly against a clean white wall. The overall vibe is intellectual, stylish, and artistic.",
-    "category": "Selfies",
-    "subcategory": "Art & Lifestyle",
+    "title": {
+      "en": "Modern Art Gallery",
+      "no": "Galleri for moderne kunst"
+    },
+    "prompt": {
+      "en": "A full-body shot of me, standing in a minimalist modern art gallery or exhibition space. My hair is neatly styled. I'm wearing blue jeans, a white t-shirt, a black blazer, and brown shoes. Large, abstract artworks or sleek installations are visible in the background, with clean, architectural lighting. My stance is confident and contemplative, perhaps leaning subtly against a clean white wall. The overall vibe is intellectual, stylish, and artistic.",
+      "no": "Et helkroppsbilde av meg, stående i et minimalistisk moderne kunstgalleri eller utstillingsrom. Håret mitt er pent stylet. Jeg har på meg blå jeans, en hvit t-skjorte, en svart blazer og brune sko. Store, abstrakte kunstverk eller elegante installasjoner er synlige i bakgrunnen, med ren, arkitektonisk belysning. Min holdning er selvsikker og kontemplativ, kanskje lener meg subtilt mot en ren hvit vegg. Den generelle stemningen er intellektuell, stilig og kunstnerisk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Art & Lifestyle",
+      "no": "Kunst og livsstil"
+    },
     "tags": []
   },
   {
     "id": "selfie-0037",
-    "title": "Industrial Chic",
-    "prompt": "A full-body shot of me, standing confidently in a gritty, industrial setting, like an old warehouse or a concrete tunnel. I'm wearing blue jeans, a white t-shirt, a black blazer, and brown shoes. Cool graffiti art is visible on the walls, and dramatic shafts of light pierce through the space. My expression is cool and collected, contrasting with the raw environment. The overall aesthetic is urban chic and edgy.",
-    "category": "Selfies",
-    "subcategory": "Urban & Industrial",
+    "title": {
+      "en": "Industrial Chic",
+      "no": "Industriell chic"
+    },
+    "prompt": {
+      "en": "A full-body shot of me, standing confidently in a gritty, industrial setting, like an old warehouse or a concrete tunnel. I'm wearing blue jeans, a white t-shirt, a black blazer, and brown shoes. Cool graffiti art is visible on the walls, and dramatic shafts of light pierce through the space. My expression is cool and collected, contrasting with the raw environment. The overall aesthetic is urban chic and edgy.",
+      "no": "Et helkroppsbilde av meg, som står selvsikkert i en grufull, industriell setting, som et gammelt lager eller en betongtunnel. Jeg har på meg blå jeans, en hvit t-skjorte, en svart blazer og brune sko. Kul graffitikunst er synlig på veggene, og dramatiske lysskafter trenger gjennom rommet. Uttrykket mitt er kult og samlet, i kontrast til det rå miljøet. Den generelle estetikken er urban chic og edgy."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Industrial",
+      "no": "Urban og industri"
+    },
     "tags": []
   },
   {
     "id": "selfie-0038",
-    "title": "Urban Rooftop Sunset",
-    "prompt": "A full-body shot of me, standing confidently on an urban rooftop at sunset. I'm wearing blue jeans, a white t-shirt, a black blazer, and brown shoes. The impressive city skyline glows golden in the background as the sun sets. My expression is self-assured and calm. There are reflections from nearby building windows, adding to the urban feel. The overall mood is sophisticated and powerful.",
-    "category": "Selfies",
-    "subcategory": "Urban & Cinematic",
+    "title": {
+      "en": "Urban Rooftop Sunset",
+      "no": "Urban solnedgang på taket"
+    },
+    "prompt": {
+      "en": "A full-body shot of me, standing confidently on an urban rooftop at sunset. I'm wearing blue jeans, a white t-shirt, a black blazer, and brown shoes. The impressive city skyline glows golden in the background as the sun sets. My expression is self-assured and calm. There are reflections from nearby building windows, adding to the urban feel. The overall mood is sophisticated and powerful.",
+      "no": "Et helkroppsbilde av meg som står selvsikkert på et urbant tak ved solnedgang. Jeg har på meg blå jeans, en hvit t-skjorte, en svart blazer og brune sko. Den imponerende byens skyline lyser gyllent i bakgrunnen når solen går ned. Mitt uttrykk er selvsikkert og rolig. Det er refleksjoner fra bygningsvinduer i nærheten, noe som bidrar til det urbane preget. Den generelle stemningen er sofistikert og kraftig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Cinematic",
+      "no": "Urban og filmatisk"
+    },
     "tags": []
   },
   {
     "id": "selfie-0039",
-    "title": "Urban Reflection",
-    "prompt": "A close-up selfie of me, reflected in a rain-streaked window, with blurred city lights and distant skyscrapers visible behind. My expression is thoughtful, framed by the wet glass.",
-    "category": "Selfies",
-    "subcategory": "Close-up & Urban",
+    "title": {
+      "en": "Urban Reflection",
+      "no": "Urban refleksjon"
+    },
+    "prompt": {
+      "en": "A close-up selfie of me, reflected in a rain-streaked window, with blurred city lights and distant skyscrapers visible behind. My expression is thoughtful, framed by the wet glass.",
+      "no": "En nærbilde-selfie av meg, reflektert i et regnstripete vindu, med uskarpt bylys og fjerne skyskrapere synlig bak. Uttrykket mitt er gjennomtenkt, innrammet av det våte glasset."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Close-up & Urban",
+      "no": "Nærbilde & Urban"
+    },
     "tags": []
   },
   {
     "id": "selfie-0040",
-    "title": "Forest Mystic",
-    "prompt": "Close-up of my face, partially obscured by soft, glowing leaves and mist. Sunlight filters through ancient trees, catching my features. I wear a subtle, moss-covered circlet on my head, giving a serene, almost elven look. Ethereal and calm.",
-    "category": "Selfies",
-    "subcategory": "Close-up & Fantasy",
+    "title": {
+      "en": "Forest Mystic",
+      "no": "Forest Mystic"
+    },
+    "prompt": {
+      "en": "Close-up of my face, partially obscured by soft, glowing leaves and mist. Sunlight filters through ancient trees, catching my features. I wear a subtle, moss-covered circlet on my head, giving a serene, almost elven look. Ethereal and calm.",
+      "no": "Nærbilde av ansiktet mitt, delvis skjult av myke, glødende blader og tåke. Sollyset filtrerer gjennom eldgamle trær og fanger trekkene mine. Jeg bærer en subtil, mosekledd sirkel på hodet, som gir et rolig, nesten alveutseende. Eterisk og rolig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Close-up & Fantasy",
+      "no": "Nærbilde og fantasi"
+    },
     "tags": []
   },
   {
     "id": "selfie-0041",
-    "title": "Vintage Detective Noir",
-    "prompt": "A dramatic black and white close-up, inspired by classic film noir. My face is lit from the side by a single, sharp light source, casting strong shadows. I'm wearing a classic fedora (optional, slightly tilted) and have a contemplative, mysterious gaze.",
-    "category": "Selfies",
-    "subcategory": "Close-up & Noir",
+    "title": {
+      "en": "Noir detective portrait",
+      "no": "Vintage detektiv Noir"
+    },
+    "prompt": {
+      "en": "A dramatic black and white close-up, inspired by classic film noir. My face is lit from the side by a single, sharp light source, casting strong shadows. I'm wearing a classic fedora (optional, slightly tilted) and have a contemplative, mysterious gaze.",
+      "no": "Et dramatisk svart-hvitt nærbilde, inspirert av klassisk film noir. Ansiktet mitt er opplyst fra siden av en enkelt, skarp lyskilde som kaster sterke skygger. Jeg har på meg en klassisk fedora (valgfritt, litt på skrå) og har et kontemplativt, mystisk blikk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Close-up & Noir",
+      "no": "Nærbilde & Noir"
+    },
     "tags": []
   },
   {
     "id": "selfie-0042",
-    "title": "Sci-Fi Explorer",
-    "prompt": "I am standing in a vibrant alien landscape. I'm dressed in a sleek, functional, slightly futuristic explorer's suit, looking out over a vista of unusual, bioluminescent flora under a twin-mooned purple sky. My stance is one of awe and discovery.",
-    "category": "Selfies",
-    "subcategory": "Sci-Fi & Adventure",
+    "title": {
+      "en": "Adventurous explorer portrait",
+      "no": "Sci-Fi Explorer"
+    },
+    "prompt": {
+      "en": "I am standing in a vibrant alien landscape. I'm dressed in a sleek, functional, slightly futuristic explorer's suit, looking out over a vista of unusual, bioluminescent flora under a twin-mooned purple sky. My stance is one of awe and discovery.",
+      "no": "Jeg står i et levende fremmed landskap. Jeg er kledd i en slank, funksjonell, litt futuristisk oppdagelsesdrakt, og ser ut over en utsikt over uvanlig, selvlysende flora under en tomånede lilla himmel. Min holdning er en av ærefrykt og oppdagelse."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Sci-Fi & Adventure",
+      "no": "Sci-Fi og eventyr"
+    },
     "tags": []
   },
   {
     "id": "selfie-0043",
-    "title": "Street Art Creator",
-    "prompt": "Me, standing casually in front of a massive, colorful graffiti mural in a trendy urban alley. I'm wearing stylish, casual streetwear, perhaps with a spray can loosely held at my side. The overall vibe is cool, confident, and artistic.",
-    "category": "Selfies",
-    "subcategory": "Urban & Artistic",
+    "title": {
+      "en": "Casual selfie – natural look",
+      "no": "Street Art Creator"
+    },
+    "prompt": {
+      "en": "Me, standing casually in front of a massive, colorful graffiti mural in a trendy urban alley. I'm wearing stylish, casual streetwear, perhaps with a spray can loosely held at my side. The overall vibe is cool, confident, and artistic.",
+      "no": "Jeg står uformell foran et massivt, fargerikt graffiti-veggmaleri i en trendy urban bakgate. Jeg har på meg stilige, uformelle streetwear, kanskje med en sprayboks som holdes løst ved siden. Den generelle stemningen er kul, selvsikker og kunstnerisk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Artistic",
+      "no": "Urban og kunstnerisk"
+    },
     "tags": []
   },
   {
     "id": "selfie-0044",
-    "title": "Summit Dreamer",
-    "prompt": "I am standing majestically on a mountain peak, surrounded by a sea of soft clouds below. I'm wearing an elegant yet practical trench coat, gazing out at the vast horizon. Dramatic light from the sun breaking through the clouds. A feeling of boundless freedom.",
-    "category": "Selfies",
-    "subcategory": "Nature & Cinematic",
+    "title": {
+      "en": "Summit Dreamer",
+      "no": "Summit Dreamer"
+    },
+    "prompt": {
+      "en": "I am standing majestically on a mountain peak, surrounded by a sea of soft clouds below. I'm wearing an elegant yet practical trench coat, gazing out at the vast horizon. Dramatic light from the sun breaking through the clouds. A feeling of boundless freedom.",
+      "no": "Jeg står majestetisk på en fjelltopp, omgitt av et hav av myke skyer nedenfor. Jeg har på meg en elegant, men praktisk trenchcoat, og ser ut mot den store horisonten. Dramatisk lys fra solen bryter gjennom skyene. En følelse av grenseløs frihet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Nature & Cinematic",
+      "no": "Natur og film"
+    },
     "tags": []
   },
   {
     "id": "selfie-0045",
-    "title": "Submerged in Wonder",
-    "prompt": "I am gently floating underwater in crystal-clear depths, surrounded by vibrant coral reefs and schools of shimmering fish. I'm wearing a flowing, dark-toned outfit that drifts with the currents. Soft, diffused light filters from the surface above. Magical and otherworldly.",
-    "category": "Selfies",
-    "subcategory": "Fantasy & Surreal",
+    "title": {
+      "en": "Submerged in Wonder",
+      "no": "Nedsenket i undring"
+    },
+    "prompt": {
+      "en": "I am gently floating underwater in crystal-clear depths, surrounded by vibrant coral reefs and schools of shimmering fish. I'm wearing a flowing, dark-toned outfit that drifts with the currents. Soft, diffused light filters from the surface above. Magical and otherworldly.",
+      "no": "Jeg flyter forsiktig under vann i krystallklare dybder, omgitt av livlige korallrev og stimer med glitrende fisk. Jeg har på meg et flytende, mørkt antrekk som driver med strømmen. Mykt, diffust lys filtrerer fra overflaten over. Magisk og utenomjordisk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Fantasy & Surreal",
+      "no": "Fantasy og surrealistisk"
+    },
     "tags": []
   },
   {
     "id": "selfie-0046",
-    "title": "Night City Blur",
-    "prompt": "A dynamic shot of me walking briskly down a busy city street at night. Long exposure blurs the car lights and neon signs in the background into streaks of color, while I remain sharp and in focus, conveying a sense of energy and urban movement.",
-    "category": "Selfies",
-    "subcategory": "Urban & Dynamic",
+    "title": {
+      "en": "Night City Blur",
+      "no": "Night City Blur"
+    },
+    "prompt": {
+      "en": "A dynamic shot of me walking briskly down a busy city street at night. Long exposure blurs the car lights and neon signs in the background into streaks of color, while I remain sharp and in focus, conveying a sense of energy and urban movement.",
+      "no": "Et dynamisk bilde av meg som går raskt nedover en travel bygate om natten. Lang eksponering gjør billysene og neonskiltene i bakgrunnen uskarpe til fargestriper, mens jeg forblir skarp og i fokus, og formidler en følelse av energi og urban bevegelse."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Dynamic",
+      "no": "Urban og dynamisk"
+    },
     "tags": []
   },
   {
     "id": "selfie-0047",
-    "title": "Aurora Borealis Spectator",
-    "prompt": "I am standing in a vast, snow-covered winter landscape, bundled in stylish, warm winter gear. The vibrant green and purple aurora borealis dances across the sky above me, illuminating the snow. I am looking up, captivated by the spectacle.",
-    "category": "Selfies",
-    "subcategory": "Nature & Dramatic",
+    "title": {
+      "en": "Aurora Borealis Spectator",
+      "no": "Aurora Borealis-tilskuer"
+    },
+    "prompt": {
+      "en": "I am standing in a vast, snow-covered winter landscape, bundled in stylish, warm winter gear. The vibrant green and purple aurora borealis dances across the sky above me, illuminating the snow. I am looking up, captivated by the spectacle.",
+      "no": "Jeg står i et vidstrakt, snødekt vinterlandskap, pakket i stilig, varm vinterutstyr. Det livlige grønne og lilla nordlyset danser over himmelen over meg og lyser opp snøen. Jeg ser opp, betatt av skuespillet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Nature & Dramatic",
+      "no": "Natur og dramatisk"
+    },
     "tags": []
   },
   {
     "id": "selfie-0048",
-    "title": "Rainy Street Dance",
-    "prompt": "I am caught in a joyful moment, dancing freely in a rain-soaked urban street. Reflections shimmer in puddles, and individual raindrops catch the ambient light. I'm wearing cool, water-resistant clothing, perhaps twirling a colorful umbrella. Expressive and full of life.",
-    "category": "Selfies",
-    "subcategory": "Urban & Expressive",
+    "title": {
+      "en": "Rainy Street Dance",
+      "no": "Rainy Street Dance"
+    },
+    "prompt": {
+      "en": "I am caught in a joyful moment, dancing freely in a rain-soaked urban street. Reflections shimmer in puddles, and individual raindrops catch the ambient light. I'm wearing cool, water-resistant clothing, perhaps twirling a colorful umbrella. Expressive and full of life.",
+      "no": "Jeg er fanget i et gledelig øyeblikk, dansende fritt i en regnvåt urban gate. Refleksjoner skimrer i sølepytter, og individuelle regndråper fanger opp lyset i omgivelsene. Jeg har på meg kule, vannavstøtende klær, kanskje snurrer jeg på en fargerik paraply. Uttrykksfull og full av liv."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Expressive",
+      "no": "Urban og uttrykksfull"
+    },
     "tags": []
   },
   {
-  "id": "trans-0001",
-  "title": "Wolf Morph (Half Face)",
-  "prompt": "Hyperrealistic cinematic portrait of a man morphing into a wolf, half human face and half wolf face, glowing yellow eyes, dramatic lighting, seamless blending. Background transforming from a modern room into a dark forest. Remove glasses.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["wolf", "morph", "half-face", "cinematic"]
-},
-{
-  "id": "trans-0002",
-  "title": "Wolf Transformation (Full)",
-  "prompt": "Epic cinematic transformation of a man into a powerful wolf, fur growing, glowing amber eyes, fangs appearing. Background morphing from a studio into a misty jungle. Remove glasses, keep human features recognizable during the morph.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["wolf", "full", "cinematic", "jungle"]
-},
-{
-  "id": "trans-0003",
-  "title": "Wolf to Man Morph",
-  "prompt": "Cinematic morph of a wolf transforming into a man, fur fading into human skin, glowing eyes shifting to natural. Background shifting from a forest into a modern cityscape. Hyperrealistic, seamless blending.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["wolf", "man", "morph", "cinematic"]
-},
-{
-  "id": "trans-0004",
-  "title": "Lion Warrior",
-  "prompt": "Hyperrealistic transformation of a man into a lion warrior, golden mane flowing with energy, glowing amber eyes. Background changing from an office to a desert battlefield. Cinematic dramatic style.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["lion", "warrior", "battlefield", "cinematic"]
-},
-{
-  "id": "trans-0005",
-  "title": "Norse Viking Berserker",
-  "prompt": "Epic cinematic transformation of a man into a Norse Viking berserker, glowing runes appearing on the skin, beard growing, armor forming. Background shifting from a modern room into a snowy battlefield with northern lights.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["viking", "berserker", "runes", "snow", "cinematic"]
-},
-{
-  "id": "trans-0006",
-  "title": "Fire Demon",
-  "prompt": "Dark cinematic transformation of a man into a fire demon, skin cracking with lava, flames erupting from body, glowing molten eyes. Background shifting from a normal room into an apocalyptic hellscape with fire and smoke.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["fire", "demon", "lava", "hellscape", "cinematic"]
-},
-{
-  "id": "trans-0007",
-  "title": "Cybernetic Warrior",
-  "prompt": "Cinematic transformation of a man into a futuristic cybernetic warrior with glowing neon armor, mechanical parts merging seamlessly with human skin. Sparks, smoke, and glowing blue eyes. Background changing from an office into a sci-fi laboratory.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["cybernetic", "warrior", "sci-fi", "neon", "cinematic"]
-},
-{
-  "id": "trans-0008",
-  "title": "Dragon Hybrid",
-  "prompt": "Epic cinematic portrait of a man morphing into a dragon hybrid, scales growing on the skin, glowing reptilian eyes, horns forming. Background shifting from a studio into a volcanic mountain landscape with fire and smoke.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["dragon", "hybrid", "scales", "volcano", "cinematic"]
-},
-{
-  "id": "trans-0009",
-  "title": "Shadow Assassin",
-  "prompt": "Cinematic dark transformation of a man into a shadow assassin, face dissolving into smoke, glowing red eyes emerging from the darkness. Background morphing from a city street into a shadowy alley with neon lights.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["shadow", "assassin", "dark", "neon", "cinematic"]
-},
-{
-  "id": "trans-0010",
-  "title": "Ice Titan",
-  "prompt": "Epic cinematic transformation of a man into an ice titan, body turning into ice and crystal, glowing blue cracks forming. Background shifting from a modern room into a frozen tundra with snowstorm and aurora borealis.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["ice", "titan", "snowstorm", "aurora", "cinematic"]
-},
-{
-  "id": "trans-0011",
-  "title": "Stone Golem",
-  "prompt": "Epic cinematic transformation of a man into a stone golem, skin turning to cracked rock with glowing blue veins, moss and roots growing from the body. Background shifting into an ancient temple in ruins. Hyperrealistic dramatic lighting.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["stone", "golem", "ancient", "temple", "cinematic"]
-},
-{
-  "id": "trans-0012",
-  "title": "Angel vs Demon",
-  "prompt": "Cinematic portrait of a man half transformed into an angel with glowing white light and feathers, the other half a demon with horns, dark cracks, and flames. Background split between a heavenly sky and an infernal hellscape.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["angel", "demon", "heaven", "hell", "cinematic"]
-},
-{
-  "id": "trans-0013",
-  "title": "Samurai Spirit",
-  "prompt": "Hyperrealistic cinematic transformation of a man into a samurai spirit, glowing armor forming around the body, ethereal kanji symbols floating in the air. Background: Japanese mountain landscape at sunset.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["samurai", "spirit", "kanji", "sunset", "cinematic"]
-},
-{
-  "id": "trans-0014",
-  "title": "Mecha Pilot",
-  "prompt": "Epic cinematic transformation of a man fusing into a futuristic mecha suit, glowing visor and mechanical arms extending. Sparks, neon reflections, and a sci-fi hangar background. Hyper-detailed lighting.",
-  "category": "Creative Portraits",
-  "subcategory": "Transformation",
-  "tags": ["mecha", "pilot", "sci-fi", "neon", "cinematic"]
-}
-
+    "id": "trans-0001",
+    "title": {
+      "en": "Wolf morph – cinematic transformation",
+      "no": "Wolf Morph (halvt ansikt)"
+    },
+    "prompt": {
+      "en": "Hyperrealistic cinematic portrait of a man morphing into a wolf, half human face and half wolf face, glowing yellow eyes, dramatic lighting, seamless blending. Background transforming from a modern room into a dark forest. Remove glasses.",
+      "no": "Hyperrealistisk filmatisk portrett av en mann som forvandles til en ulv, halvt menneskeansikt og halvt ulvansikt, glødende gule øyne, dramatisk lyssetting, sømløs blanding. Bakgrunn forvandles fra et moderne rom til en mørk skog. Fjern briller."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "wolf",
+        "no": "ulv"
+      },
+      {
+        "en": "morph",
+        "no": "morph"
+      },
+      {
+        "en": "half-face",
+        "no": "halvt ansikt"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0002",
+    "title": {
+      "en": "Wolf morph – cinematic transformation",
+      "no": "Wolf Transformation (fullstendig)"
+    },
+    "prompt": {
+      "en": "Epic cinematic transformation of a man into a powerful wolf, fur growing, glowing amber eyes, fangs appearing. Background morphing from a studio into a misty jungle. Remove glasses, keep human features recognizable during the morph.",
+      "no": "Episk filmisk transformasjon av en mann til en mektig ulv, pelsvoksende, glødende gule øyne, hoggtenner dukker opp. Bakgrunnen går fra et studio til en tåkete jungel. Fjern briller, hold menneskelige trekk gjenkjennelige under morfen."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "wolf",
+        "no": "ulv"
+      },
+      {
+        "en": "full",
+        "no": "full"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      },
+      {
+        "en": "jungle",
+        "no": "jungel"
+      }
+    ]
+  },
+  {
+    "id": "trans-0003",
+    "title": {
+      "en": "Wolf morph – cinematic transformation",
+      "no": "Wolf to Man Morph"
+    },
+    "prompt": {
+      "en": "Cinematic morph of a wolf transforming into a man, fur fading into human skin, glowing eyes shifting to natural. Background shifting from a forest into a modern cityscape. Hyperrealistic, seamless blending.",
+      "no": "Kinematisk form av en ulv som forvandles til en mann, pelsen blekner inn i menneskelig hud, glødende øyne skifter til naturlige. Bakgrunnen skifter fra en skog til et moderne bybilde. Hyperrealistisk, sømløs blanding."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "wolf",
+        "no": "ulv"
+      },
+      {
+        "en": "man",
+        "no": "mann"
+      },
+      {
+        "en": "morph",
+        "no": "morph"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0004",
+    "title": {
+      "en": "Lion warrior transformation",
+      "no": "Løvekriger"
+    },
+    "prompt": {
+      "en": "Hyperrealistic transformation of a man into a lion warrior, golden mane flowing with energy, glowing amber eyes. Background changing from an office to a desert battlefield. Cinematic dramatic style.",
+      "no": "Hyperrealistisk transformasjon av en mann til en løvekriger, gylden manke flyter av energi, glødende gule øyne. Bakgrunnen endres fra et kontor til en ørken slagmark. Kinematisk dramatisk stil."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "lion",
+        "no": "løve"
+      },
+      {
+        "en": "warrior",
+        "no": "kriger"
+      },
+      {
+        "en": "battlefield",
+        "no": "slagmarken"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0005",
+    "title": {
+      "en": "Viking berserker portrait",
+      "no": "Norrønt Viking Berserker"
+    },
+    "prompt": {
+      "en": "Epic cinematic transformation of a man into a Norse Viking berserker, glowing runes appearing on the skin, beard growing, armor forming. Background shifting from a modern room into a snowy battlefield with northern lights.",
+      "no": "Episk filmisk transformasjon av en mann til en norrøn viking-berserker, glødende runer på huden, skjegg som vokser, rustning dannes. Bakgrunnen skifter fra et moderne rom til en snødekt slagmark med nordlys."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "viking",
+        "no": "viking"
+      },
+      {
+        "en": "berserker",
+        "no": "berserker"
+      },
+      {
+        "en": "runes",
+        "no": "runer"
+      },
+      {
+        "en": "snow",
+        "no": "snø"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0006",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Ilddemon"
+    },
+    "prompt": {
+      "en": "Dark cinematic transformation of a man into a fire demon, skin cracking with lava, flames erupting from body, glowing molten eyes. Background shifting from a normal room into an apocalyptic hellscape with fire and smoke.",
+      "no": "Mørk filmisk transformasjon av en mann til en ilddemon, hud som sprekker av lava, flammer som bryter ut fra kroppen, glødende smeltede øyne. Bakgrunnen skifter fra et normalt rom til et apokalyptisk helveteslandskap med ild og røyk."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "fire",
+        "no": "ild"
+      },
+      {
+        "en": "demon",
+        "no": "demon"
+      },
+      {
+        "en": "lava",
+        "no": "lava"
+      },
+      {
+        "en": "hellscape",
+        "no": "helveteslandskap"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0007",
+    "title": {
+      "en": "Cyberpunk / Cybernetic portrait",
+      "no": "Kybernetisk kriger"
+    },
+    "prompt": {
+      "en": "Cinematic transformation of a man into a futuristic cybernetic warrior with glowing neon armor, mechanical parts merging seamlessly with human skin. Sparks, smoke, and glowing blue eyes. Background changing from an office into a sci-fi laboratory.",
+      "no": "Filmatisk transformasjon av en mann til en futuristisk kybernetisk kriger med glødende neonpanser, mekaniske deler som smelter sømløst sammen med menneskelig hud. Gnister, røyk og glødende blå øyne. Bakgrunnen endres fra et kontor til et sci-fi-laboratorium."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "cybernetic",
+        "no": "kybernetisk"
+      },
+      {
+        "en": "warrior",
+        "no": "kriger"
+      },
+      {
+        "en": "sci-fi",
+        "no": "sci-fi"
+      },
+      {
+        "en": "neon",
+        "no": "neon"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0008",
+    "title": {
+      "en": "Dragon hybrid portrait",
+      "no": "Dragon Hybrid"
+    },
+    "prompt": {
+      "en": "Epic cinematic portrait of a man morphing into a dragon hybrid, scales growing on the skin, glowing reptilian eyes, horns forming. Background shifting from a studio into a volcanic mountain landscape with fire and smoke.",
+      "no": "Episk filmportrett av en mann som forvandles til en dragehybrid, skjell som vokser på huden, glødende reptiløyne, horn dannes. Bakgrunnen skifter fra et studio til et vulkansk fjellandskap med ild og røyk."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "dragon",
+        "no": "drage"
+      },
+      {
+        "en": "hybrid",
+        "no": "hybrid"
+      },
+      {
+        "en": "scales",
+        "no": "vekter"
+      },
+      {
+        "en": "volcano",
+        "no": "vulkan"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0009",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Shadow Assassin"
+    },
+    "prompt": {
+      "en": "Cinematic dark transformation of a man into a shadow assassin, face dissolving into smoke, glowing red eyes emerging from the darkness. Background morphing from a city street into a shadowy alley with neon lights.",
+      "no": "Filmatisk mørk transformasjon av en mann til en skyggemorder, ansikt oppløses i røyk, glødende røde øyne som dukker opp fra mørket. Bakgrunnen forvandles fra en bygate til en skyggefull bakgate med neonlys."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "shadow",
+        "no": "skygge"
+      },
+      {
+        "en": "assassin",
+        "no": "leiemorder"
+      },
+      {
+        "en": "dark",
+        "no": "mørk"
+      },
+      {
+        "en": "neon",
+        "no": "neon"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0010",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Ice Titan"
+    },
+    "prompt": {
+      "en": "Epic cinematic transformation of a man into an ice titan, body turning into ice and crystal, glowing blue cracks forming. Background shifting from a modern room into a frozen tundra with snowstorm and aurora borealis.",
+      "no": "Episk filmisk transformasjon av en mann til en istitan, kropp blir til is og krystall, glødende blå sprekker dannes. Bakgrunnen skifter fra et moderne rom til en frossen tundra med snøstorm og nordlys."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "ice",
+        "no": "is"
+      },
+      {
+        "en": "titan",
+        "no": "titan"
+      },
+      {
+        "en": "snowstorm",
+        "no": "snøstorm"
+      },
+      {
+        "en": "aurora",
+        "no": "nordlys"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0011",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Stein Golem"
+    },
+    "prompt": {
+      "en": "Epic cinematic transformation of a man into a stone golem, skin turning to cracked rock with glowing blue veins, moss and roots growing from the body. Background shifting into an ancient temple in ruins. Hyperrealistic dramatic lighting.",
+      "no": "Episk filmisk transformasjon av en mann til en steingolem, hud som blir til sprukket stein med glødende blå årer, mose og røtter som vokser fra kroppen. Bakgrunnen skifter til et gammelt tempel i ruiner. Hyperrealistisk dramatisk belysning."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "stone",
+        "no": "stein"
+      },
+      {
+        "en": "golem",
+        "no": "golem"
+      },
+      {
+        "en": "ancient",
+        "no": "eldgammel"
+      },
+      {
+        "en": "temple",
+        "no": "tempel"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0012",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Angel vs Demon"
+    },
+    "prompt": {
+      "en": "Cinematic portrait of a man half transformed into an angel with glowing white light and feathers, the other half a demon with horns, dark cracks, and flames. Background split between a heavenly sky and an infernal hellscape.",
+      "no": "Kinematisk portrett av en mann halvparten forvandlet til en engel med glødende hvitt lys og fjær, den andre halvparten en demon med horn, mørke sprekker og flammer. Bakgrunnen er delt mellom en himmelsk himmel og et helveteslandskap."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "angel",
+        "no": "engel"
+      },
+      {
+        "en": "demon",
+        "no": "demon"
+      },
+      {
+        "en": "heaven",
+        "no": "himmel"
+      },
+      {
+        "en": "hell",
+        "no": "helvete"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0013",
+    "title": {
+      "en": "Samurai warrior portrait",
+      "no": "Samurai Spirit"
+    },
+    "prompt": {
+      "en": "Hyperrealistic cinematic transformation of a man into a samurai spirit, glowing armor forming around the body, ethereal kanji symbols floating in the air. Background: Japanese mountain landscape at sunset.",
+      "no": "Hyperrealistisk filmisk transformasjon av en mann til en samurai-ånd, glødende rustning som dannes rundt kroppen, eteriske kanji-symboler som svever i luften. Bakgrunn: Japansk fjellandskap ved solnedgang."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "samurai",
+        "no": "samurai"
+      },
+      {
+        "en": "spirit",
+        "no": "ånd"
+      },
+      {
+        "en": "kanji",
+        "no": "kanji"
+      },
+      {
+        "en": "sunset",
+        "no": "solnedgang"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "trans-0014",
+    "title": {
+      "en": "Cinematic portrait – dramatic lighting",
+      "no": "Meka Pilot"
+    },
+    "prompt": {
+      "en": "Epic cinematic transformation of a man fusing into a futuristic mecha suit, glowing visor and mechanical arms extending. Sparks, neon reflections, and a sci-fi hangar background. Hyper-detailed lighting.",
+      "no": "Episk filmisk transformasjon av en mann som smelter sammen til en futuristisk meka-drakt, glødende visir og mekaniske armer som strekker seg. Gnister, neonrefleksjoner og en sci-fi-hangarbakgrunn. Hyper-detaljert belysning."
+    },
+    "category": {
+      "en": "Creative Portraits",
+      "no": "Kreative portretter"
+    },
+    "subcategory": {
+      "en": "Transformation",
+      "no": "Transformasjon"
+    },
+    "tags": [
+      {
+        "en": "mecha",
+        "no": "meka"
+      },
+      {
+        "en": "pilot",
+        "no": "Pilot"
+      },
+      {
+        "en": "sci-fi",
+        "no": "sci-fi"
+      },
+      {
+        "en": "neon",
+        "no": "neon"
+      },
+      {
+        "en": "cinematic",
+        "no": "filmatisk"
+      }
+    ]
+  },
+  {
+    "id": "business-linkedin",
+    "title": {
+      "en": "LinkedIn business headshot – studio, classic blazer",
+      "no": "Bedrift (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Edit into a professional business headshot. Keep the original face fully intact and realistic with no changes to features or skin. Outfit: elegant tailored blazer. Background: subtle gradient gray with studio lighting. Style: authentic, professional, approachable. Face preservation priority.",
+      "no": "Rediger til et profesjonelt forretningsbilde. Hold det originale ansiktet helt intakt og realistisk uten endringer i funksjoner eller hud. Antrekk: elegant skreddersydd blazer. Bakgrunn: subtil gradientgrå med studiobelysning. Stil: autentisk, profesjonell, tilgjengelig. Ansiktsbevaring prioritet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ],
+    "summary": {
+      "en": "Professional, clean headshot in studio; blazer + shirt; soft lighting; original face preserved.",
+      "no": ""
+    }
+  },
+  {
+    "id": "business-cinematic",
+    "title": {
+      "en": "Cinematic business portrait – dramatic lighting",
+      "no": "Bedrift (kvinnelig)"
+    },
+    "prompt": {
+      "en": "Professional business headshot portrait of a woman in a black tailored blazer with a white blouse. Keep the original face completely unchanged and natural — identical facial features, skin texture and expression preserved. Background: subtle dark gradient (black to charcoal). Lighting: cinematic studio style with soft side light for depth. Authentic, realistic, and professional LinkedIn-ready look.",
+      "no": "Profesjonelt forretningshodebildeportrett av en kvinne i en svart skreddersydd blazer med en hvit bluse. Hold det originale ansiktet helt uendret og naturlig – identiske ansiktstrekk, hudtekstur og uttrykk bevart. Bakgrunn: subtil mørk gradient (svart til kull). Lyssetting: filmisk studiostil med mykt sidelys for dybde. Autentisk, realistisk og profesjonelt LinkedIn-klar utseende."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business",
+      "no": "Business"
+    },
+    "tags": [
+      {
+        "en": "female",
+        "no": "hunn"
+      },
+      {
+        "en": "business",
+        "no": "virksomhet"
+      },
+      {
+        "en": "face-preservation",
+        "no": "ansiktsbevaring"
+      }
+    ],
+    "summary": {
+      "en": "Dramatic side light / low-key background; stylish, cinematic atmosphere; original face preserved.",
+      "no": ""
+    }
+  },
+  {
+    "id": "business-office",
+    "title": {
+      "en": "Office confidence – business portrait by desk/window",
+      "no": "Business Skyline Sunset"
+    },
+    "prompt": {
+      "en": "A cinematic full-body portrait of the same woman from the reference image, keeping her exact facial features, hair, and natural look fully preserved. She wears a sleek, tailored dark business suit with a white blouse and stands in front of a floor-to-ceiling glass window high above the city skyline. Behind her, a dramatic sunset paints the sky in warm orange and deep purple tones, vividly reflecting in the glass around her. Her reflection in the window is sharp and elegant, doubling the visual impact. The golden light highlights her natural beauty and professionalism, creating a powerful, stylish, and cinematic business atmosphere.",
+      "no": "Et filmatisk helkroppsportrett av den samme kvinnen fra referansebildet, som holder hennes eksakte ansiktstrekk, hår og naturlige utseende fullt bevart. Hun har på seg en elegant, skreddersydd mørk forretningsdress med en hvit bluse og står foran et gulv-til-tak glassvindu høyt over byens skyline. Bak henne maler en dramatisk solnedgang himmelen i varme oransje og dype lilla toner, og gjenspeiler seg levende i glasset rundt henne. Refleksjonen hennes i vinduet er skarp og elegant, og dobler den visuelle effekten. Det gylne lyset fremhever hennes naturlige skjønnhet og profesjonalitet, og skaper en kraftig, stilig og filmatisk forretningsatmosfære."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business & Cinematic",
+      "no": "Business og film"
+    },
+    "tags": [],
+    "summary": {
+      "en": "Modern office environment; professional attire; confident pose near desk or window; face preserved.",
+      "no": ""
+    }
+  },
+  {
+    "id": "business-urban",
+    "title": {
+      "en": "Urban business style – suit in city street",
+      "no": "Business Street Style"
+    },
+    "prompt": {
+      "en": "A dynamic business shot of a woman walking purposefully down a bustling city street. She is dressed in a sharp business suit (e.g., blazer, skirt/trousers, blouse). The background shows blurred city life and movement, while she remains sharp in focus. She looks forward with a determined and focused expression, conveying ambition and drive. Her facial features are natural and clearly recognizable from the provided image.",
+      "no": "Et dynamisk forretningsbilde av en kvinne som går målbevisst nedover en travel bygate. Hun er kledd i en skarp forretningsdress (f.eks. blazer, skjørt/bukse, bluse). Bakgrunnen viser uskarpt byliv og bevegelse, mens hun forblir skarp i fokus. Hun ser fremover med et målbevisst og fokusert uttrykk, som formidler ambisjoner og driv. Ansiktstrekkene hennes er naturlige og tydelig gjenkjennelige fra det medfølgende bildet."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business & Urban",
+      "no": "Business & Urban"
+    },
+    "tags": [],
+    "summary": {
+      "en": "Dynamic street/urban background; purposeful walk or confident stance; business outfit; face preserved.",
+      "no": ""
+    }
+  },
+  {
+    "id": "business-mirror_sunset",
+    "title": {
+      "en": "Business mirror/sunset – cinematic atmosphere",
+      "no": "Business Mirror Studio"
+    },
+    "prompt": {
+      "en": "A sophisticated full-body business portrait of a woman in a modern studio setting. She is wearing a sharp, tailored business suit (e.g., a dark blazer, crisp white shirt, and matching trousers or skirt) and stands confidently in front of large, clean studio mirrors. Her reflection is clearly visible, adding depth and a stylish visual element. She looks directly at the camera with a confident, poised, and professional expression. Her facial features are natural and clearly recognizable.",
+      "no": "Et sofistikert helkroppsportrett av en kvinne i et moderne studiomiljø. Hun har på seg en skarp, skreddersydd forretningsdress (f.eks. en mørk blazer, skarp hvit skjorte og matchende bukser eller skjørt) og står selvsikkert foran store, rene studiospeil. Hennes refleksjon er godt synlig, og tilfører dybde og et stilig visuelt element. Hun ser direkte på kameraet med et selvsikkert, balansert og profesjonelt uttrykk. Ansiktstrekkene hennes er naturlige og tydelig gjenkjennelige."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business & Studio",
+      "no": "Business & Studio"
+    },
+    "tags": [],
+    "summary": {
+      "en": "Full-body portrait in front of mirror/window; reflection visible; sometimes sunset/city skyline; stylish, cinematic.",
+      "no": ""
+    }
+  }
 ]

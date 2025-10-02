@@ -2,65 +2,55 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prompt Library</title>
-  <link rel="stylesheet" href="assets/css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompt Libraries</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        .links {
+            margin-top: 2rem;
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        .links a {
+            padding: 1rem 2rem;
+            border-radius: 10px;
+            background: #111827;
+            color: #e6eef7;
+            text-decoration: none;
+            font-weight: bold;
+            border: 1px solid #334155;
+            transition: background 0.3s;
+        }
+
+        .links a:hover {
+            background: #1f2937;
+        }
+    </style>
 </head>
 
 <body>
-  <header class="topbar">
-    <label for="search" id="searchLabel" style="display:none;">Search prompts</label>
-    <input id="search" type="search" placeholder="Search prompts..." title="Search prompts" aria-labelledby="searchLabel">
-  
-    <label id="favLabel">
-      <label for="favToggle">
-        <input type="checkbox" id="favToggle" title="Show favorites">
-        <span></span>
-        Show favorites
-      </label>
-    </label>
-  
-    <label id="langLabel" for="langSelect">Language</label>
-    <select id="langSelect" title="Select language">
-      <option value="en">English</option>
-      <option value="no">Norsk</option>
-    </select>
-  </header>
-
-  <div id="infoBanner" class="info-banner"></div>
-
-
-  <main class="layout">
-    <aside>
-      <h2>Categories</h2>
-      <ul id="categoryList"></ul>
-      <h3>Subcategories</h3>
-      <ul id="subcategoryList"></ul>
-    </aside>
-
-    <section>
-      <div id="breadcrumbs">
-        <span>Select a category</span>
-        <button id="resetFilters" style="display:none">Show All</button>
-      </div>
-      <div id="cards" class="cards"></div>
-    </section>
-  </main>
-
-  <!-- Prompt modal -->
-  <dialog id="promptDialog">
-    <header>
-      <h3 id="dlgTitle"></h3>
-    </header>
-    <pre id="dlgBody"></pre>
-    <footer>
-      <button id="copyPrompt">Copy</button>
-      <button id="dlgClose">Close</button>
+    <h1>Welcome to the Prompt Libraries</h1>
+    <p>
+        Here you can explore two collections:
+    </p>
+    <div class="links">
+        <a href="prompts.html">✨ General Prompts</a>
+        <a href="selfies.html">📸 Selfies & Transformations</a>
+    </div>
+    <footer style="margin-top:3rem; font-size:0.9em; color:#9ca3af;">
+        Created with ❤️ by Cre8Web
     </footer>
-  </dialog>
-
-  <script type="module" src="assets/js/app.js"></script>
 </body>
 
 </html>
