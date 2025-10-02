@@ -400,3 +400,131 @@ dialog article header {
   font-size: 14px;
   text-align: center;
 }
+
+/* === Responsive & Sidebar toggle enhancements === */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--panel);
+  border-bottom: 1px solid var(--border);
+}
+
+.sidebar-toggle {
+  display: none;
+  gap: 6px;
+  align-items: center;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  cursor: pointer;
+}
+
+.sidebar-toggle svg {
+  width: 18px;
+  height: 18px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 20px;
+}
+
+/* Cards grid tighter on small screens */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+/* Mobile breakpoints */
+@media (max-width: 860px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+  .sidebar-toggle {
+    display: inline-flex;
+  }
+  .layout > aside {
+    position: fixed;
+    top: 56px;
+    left: 0;
+    bottom: 0;
+    width: min(88vw, 320px);
+    background: var(--panel);
+    border-right: 1px solid var(--border);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    padding: 14px;
+    overflow: auto;
+    transform: translateX(-105%);
+    transition: transform 0.2s ease;
+    z-index: 60;
+  }
+  body.sidebar-open .layout > aside {
+    transform: translateX(0);
+  }
+  body.sidebar-open::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.25);
+    z-index: 55;
+  }
+  .topbar {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 8px;
+    padding: 8px;
+  }
+  #search {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .cards {
+    grid-template-columns: 1fr;
+  }
+  .card {
+    padding: 12px;
+  }
+  .card-title {
+    font-size: 15px;
+  }
+  .btn,
+  .fav-btn {
+    padding: 6px 10px;
+    font-size: 13px;
+  }
+}
+/* Default: skjul på desktop */
+.sidebar-toggle {
+  display: none;
+  gap: 6px;
+  align-items: center;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  cursor: pointer;
+}
+
+/* Vis hamburger på mobil */
+@media (max-width: 860px) {
+  .sidebar-toggle {
+    display: inline-flex;
+  }
+}
+
+.sidebar-toggle svg {
+  width: 20px;
+  height: 20px;
+}
+
+aside ul li.active > a {
+  background: var(--accent-light, #e0f2fe);
+  border-left: 3px solid var(--accent, #0ea5e9);
+  font-weight: bold;
+}
