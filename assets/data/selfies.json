@@ -2801,5 +2801,365 @@
       "en": "Full-body portrait in front of mirror/window; reflection visible; sometimes sunset/city skyline; stylish, cinematic.",
       "no": ""
     }
+  },
+  {
+    "id": "urban_rooftop_confidence",
+    "title": {
+      "en": "Urban Rooftop – Confident Sunset Portrait",
+      "no": "Urban takterrasse – selvsikkert solnedgangsportrett"
+    },
+    "prompt": {
+      "en": "A full-body portrait of the same man from the reference image, keeping his face, hairstyle, beard, and glasses 100% identical and naturally detailed. He stands confidently on an urban rooftop at sunset, wearing blue jeans, a white t-shirt, a black blazer, and brown shoes. The golden city skyline glows behind him with light reflecting from glass buildings. The overall atmosphere is cinematic, sophisticated, and powerful.",
+      "no": "Et helkroppsportrett av samme mann som på referansebildet, med identiske ansiktstrekk, frisyre, skjegg og briller – naturlig og detaljert gjengitt. Han står selvsikkert på en urban takterrasse ved solnedgang, iført blå jeans, hvit t-skjorte, svart blazer og brune sko. Byens lys reflekteres i glassbygningene bak ham. Stemningen er filmatisk, sofistikert og kraftfull."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Lifestyle",
+      "no": "Urban og livsstil"
+    },
+    "tags": ["rooftop", "city", "sunset", "confidence"],
+    "summary": {
+      "en": "Full-body rooftop portrait with golden city glow and confident expression.",
+      "no": "Helkroppsportrett på takterrasse med gyllen solnedgang og selvsikkert uttrykk."
+    }
+  },
+  {
+    "id": "glass_reflection_business",
+    "title": {
+      "en": "Glass Reflection – Executive Business Look",
+      "no": "Glassrefleksjon – profesjonelt business-portrett"
+    },
+    "prompt": {
+      "en": "A waist-up professional portrait of the same man from the reference image, keeping his facial features, hairstyle, beard, and glasses perfectly identical. He stands in front of a tall glass building during sunset, with his reflection visible behind him. He wears a fitted dark blazer and white shirt. The lighting is soft and cinematic, highlighting his eyes and expression with warm tones. Mood: confident, visionary, and successful.",
+      "no": "Et portrett fra livet og opp av samme mann som på referansebildet, med helt identiske ansiktstrekk, frisyre, skjegg og briller. Han står foran en høy glassbygning i solnedgangen, der refleksjonen hans er synlig bak ham. Han har på seg en mørk blazer og hvit skjorte. Lyssettingen er myk og filmatisk, og fremhever øyne og uttrykk med varme toner. Stemning: selvsikker, visjonær og profesjonell."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business & Studio",
+      "no": "Business og studio"
+    },
+    "tags": ["reflection", "glass", "sunset", "business"],
+    "summary": {
+      "en": "Business portrait with window reflection and cinematic lighting.",
+      "no": "Business-portrett med vindusrefleksjon og filmatisk lys."
+    }
+  },
+  {
+    "id": "studio_executive_minimal",
+    "title": {
+      "en": "Studio Executive – Minimalist Portrait",
+      "no": "Studioportrett – minimalistisk lederstil"
+    },
+    "prompt": {
+      "en": "A medium-shot portrait of the same man from the reference image, keeping his face and features completely identical. He stands in a minimalist studio with a gradient background (dark gray fading to light). Wearing a black blazer and crisp white shirt, he looks directly into the camera with a confident and approachable expression. The lighting softly emphasizes skin texture and glasses reflection.",
+      "no": "Et portrett i halvfigur av samme mann som på referansebildet, med helt identiske ansiktstrekk. Han står i et minimalistisk studio med en gradient bakgrunn (mørk grå som tones til lys). Han har på seg svart blazer og hvit skjorte og ser rett mot kamera med et trygt, vennlig uttrykk. Lyset fremhever hudtekstur og brilleglans på en naturlig måte."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business & Studio",
+      "no": "Business og studio"
+    },
+    "tags": ["studio", "minimalist", "executive", "portrait"],
+    "summary": {
+      "en": "Studio portrait with minimal background and soft light.",
+      "no": "Studioportrett med enkel bakgrunn og myk belysning."
+    }
+  },
+  {
+    "id": "street_style_sunset",
+    "title": {
+      "en": "Street Style – Cinematic Sunset Walk",
+      "no": "Gatestyle – filmatisk solnedgang"
+    },
+    "prompt": {
+      "en": "A full-body cinematic shot of the same man from the reference image, with identical face and hairstyle. He walks confidently down a sunlit street at sunset, wearing jeans, white t-shirt, and an open leather jacket. Reflections from shop windows and warm orange light create a dynamic, urban atmosphere.",
+      "no": "Et filmatisk helkroppsbilde av samme mann som på referansebildet, med identiske ansiktstrekk og frisyre. Han går selvsikkert nedover en solbelyst gate ved solnedgang, iført jeans, hvit t-skjorte og åpen skinnjakke. Refleksjoner fra butikkvinduer og varmt lys gir en levende, urban stemning."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Urban & Lifestyle",
+      "no": "Urban og livsstil"
+    },
+    "tags": ["street", "leather", "sunset", "cinematic"],
+    "summary": {
+      "en": "Dynamic street portrait with sunset glow and natural reflections.",
+      "no": "Dynamisk gateportrett med solnedgang og naturlige refleksjoner."
+    }
+  },
+  {
+    "id": "mirror_reflection_studio",
+    "title": {
+      "en": "Mirror Reflection – Dual Perspective",
+      "no": "Speilrefleksjon – dobbel perspektiv"
+    },
+    "prompt": {
+      "en": "A portrait of the same man from the reference image, keeping his face, beard, and glasses perfectly identical. He stands in front of a large mirror in a modern studio, with both front and reflected views clearly visible. The lighting is natural and warm, creating a balanced and creative dual-perspective effect. Mood: introspective and sophisticated.",
+      "no": "Et portrett av samme mann som på referansebildet, med identiske ansiktstrekk, skjegg og briller. Han står foran et stort speil i et moderne studio, der både front og refleksjon vises tydelig. Lyset er naturlig og varmt, og gir en balansert og kreativ dobbelperspektiv-effekt. Stemning: reflektert og sofistikert."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Business & Studio",
+      "no": "Business og studio"
+    },
+    "tags": ["mirror", "reflection", "studio", "introspective"],
+    "summary": {
+      "en": "Studio portrait with clear mirror reflection and warm natural lighting.",
+      "no": "Studioportrett med tydelig speilrefleksjon og varmt naturlig lys."
+    }
+  },
+  {
+    "id": "window_reflection_night",
+    "title": {
+      "en": "Window Reflection – City Lights Mood",
+      "no": "Vindusrefleksjon – nattby og neonlys"
+    },
+    "prompt": {
+      "en": "A cinematic portrait of the same man from the reference image, keeping his facial features 100% identical. Seen through a glass window at night, with reflections of city lights and neon signs softly glowing on the glass. He wears a dark blazer and t-shirt, looking out with a thoughtful expression. Mood: reflective, calm, and stylish.",
+      "no": "Et filmatisk portrett av samme mann som på referansebildet, med 100 % identiske ansiktstrekk. Han sees gjennom et vindu om natten, der refleksjoner av bylys og neonskilt gløder svakt på glasset. Han har på seg mørk blazer og t-skjorte, og ser tankefullt ut. Stemning: reflektert, rolig og stilig."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Night & Reflection",
+      "no": "Natt og refleksjon"
+    },
+    "tags": ["window", "reflection", "night", "neon"],
+    "summary": {
+      "en": "Cinematic night portrait with glass reflection and neon glow.",
+      "no": "Filmatisk nattportrett med vindusrefleksjon og neonglød."
+    }
+  },
+  {
+    "id": "noir_studio_contrast",
+    "title": {
+      "en": "Noir Studio – Dramatic Black and White",
+      "no": "Noir-studio – dramatisk sort/hvitt"
+    },
+    "prompt": {
+      "en": "A dramatic black and white portrait of the same man from the reference image, maintaining identical facial details and realistic texture. Strong side lighting creates deep shadows and highlights across his face. He wears a dark blazer and white shirt, with glasses catching the light. Mood: timeless, cinematic, and bold.",
+      "no": "Et dramatisk sort-hvitt-portrett av samme mann som på referansebildet, med identiske ansiktstrekk og realistisk tekstur. Kraftig sidelys skaper dype skygger og markerte høylys over ansiktet. Han har på seg mørk blazer og hvit skjorte, og brilleglassene fanger lyset. Stemning: tidløs, filmatisk og sterk."
+    },
+    "category": {
+      "en": "Selfies",
+      "no": "Selfies"
+    },
+    "subcategory": {
+      "en": "Artistic & Noir",
+      "no": "Kunstnerisk og noir"
+    },
+    "tags": ["blackwhite", "noir", "dramatic", "studio"],
+    "summary": {
+      "en": "High-contrast black and white portrait with cinematic lighting.",
+      "no": "Høykontrast sort/hvitt-portrett med filmatisk lyssetting."
+    }
+  },
+  {
+    "id": "horror_jason_man",
+    "title": {
+      "en": "Horror – Jason Mask",
+      "no": "Skrekk – Jason-maske"
+    },
+    "prompt": {
+      "en": "A cinematic horror portrait mode. The man from the uploaded reference image, with his beard, glasses, and distinct facial features, is accurately preserved. He is holding a lit lighter close to his face, the flame casting dramatic orange and blue light across his skin, which is naturally illuminated with a subtle hint of sweat. His expression is initially calm, but with an underlying tension, staring directly forward. Behind him, in the deep darkness, a sinister Jason Voorhees mask, dripping with water, is half-hidden in the shadows, with glowing red eyes and menacing textures. The overall mood is tense and frightening, rendered in an 8k cinematic style with a focus on deep shadows and sharp contrasts from the lighter's flame.",
+      "no": "Et filmatisk skrekkportrett. Mannen fra det opplastede referansebildet, med skjegg, briller og tydelige ansiktstrekk, er nøyaktig bevart. Han holder en tent lighter nær ansiktet, flammen kaster dramatisk oransje og blått lys over huden hans, som er naturlig opplyst med et subtilt hint av svette. Uttrykket hans er i utgangspunktet rolig, men med en underliggende spenning, og han stirrer direkte fremover. Bak ham, i det dype mørket, er en uhyggelig Jason Voorhees-maske, dryppende av vann, halvt skjult i skyggene, med glødende røde øyne og truende teksturer. Den generelle stemningen er anspent og skremmende, gjengitt i en 8k filmatisk stil med fokus på dype skygger og skarpe kontraster fra lighterflammen."
+    },
+    "category": {
+      "en": "Horror",
+      "no": "Skrekk"
+    },
+    "subcategory": {
+      "en": "Classic Monsters",
+      "no": "Klassiske monstre"
+    },
+    "tags": ["jason", "horror", "cinematic", "lighter", "mask"],
+    "summary": {
+      "en": "Horror portrait with Jason mask behind, dramatic lighting.",
+      "no": "Skrekkportrett med Jason-maske bak, dramatisk lyssetting."
+    }
+  },
+  {
+    "id": "horror_samara_woman",
+    "title": {
+      "en": "Horror – Samara-like Figure",
+      "no": "Skrekk – Samara-lignende figur"
+    },
+    "prompt": {
+      "en": "A cinematic horror portrait mode. The woman from the uploaded reference image, with her blonde hair, light eyes, and distinct facial features, is accurately preserved. She is holding a lit lighter close to her face, the flame casting dramatic orange and blue light across her skin, which is naturally illuminated with a subtle hint of sweat. Her expression is initially calm, but with an underlying tension, staring directly forward. Behind her, in the deep darkness, a chilling, pale face reminiscent of Samara from The Ring, with long, wet black hair covering part of its face, emerges from the shadows. The overall mood is tense and frightening, rendered in an 8k cinematic style with a focus on deep shadows and sharp contrasts from the lighter's flame.",
+      "no": "Et filmatisk skrekkportrett. Kvinnen fra det opplastede referansebildet, med blondt hår, lyse øyne og tydelige ansiktstrekk, er nøyaktig bevart. Hun holder en tent lighter nær ansiktet, flammen kaster dramatisk oransje og blått lys over huden hennes, som er naturlig opplyst med et subtilt hint av svette. Uttrykket hennes er i utgangspunktet rolig, men med en underliggende spenning, og hun stirrer direkte fremover. Bak henne, i det dype mørket, dukker et isnende, blekt ansikt som minner om Samara fra The Ring, med langt, vått svart hår som dekker deler av ansiktet, frem fra skyggene. Den generelle stemningen er anspent og skremmende, gjengitt i en 8k filmatisk stil med fokus på dype skygger og skarpe kontraster fra lighterflammen."
+    },
+    "category": {
+      "en": "Horror",
+      "no": "Skrekk"
+    },
+    "subcategory": {
+      "en": "Psychological Horror",
+      "no": "Psykologisk skrekk"
+    },
+    "tags": ["samara", "ring", "horror", "ghost", "cinematic"],
+    "summary": {
+      "en": "Horror portrait with Samara-like figure, wet hair, dramatic light.",
+      "no": "Skrekkportrett med Samara-lignende figur, vått hår, dramatisk lys."
+    }
+  },
+  {
+    "id": "horror_zombie_hand_man",
+    "title": {
+      "en": "Horror – Zombie's Grasp",
+      "no": "Skrekk – Zombiegrep"
+    },
+    "prompt": {
+      "en": "A cinematic horror portrait mode. The man from the uploaded reference image, with his beard, glasses, and distinct facial features, is accurately preserved. He is holding a lit lighter close to his face, the flame casting dramatic orange and blue light across his skin, which is naturally illuminated with a subtle hint of sweat. His expression is initially calm, but with an underlying tension, staring directly forward. Behind him, in the deep darkness, a skeletal hand of a zombie with decaying flesh and sharp claws reaches out ominously from the darkness over his shoulder. The overall mood is tense and frightening, rendered in an 8k cinematic style with a focus on deep shadows and sharp contrasts from the lighter's flame.",
+      "no": "Et filmatisk skrekkportrett. Mannen fra det opplastede referansebildet, med skjegg, briller og tydelige ansiktstrekk, er nøyaktig bevart. Han holder en tent lighter nær ansiktet, flammen kaster dramatisk oransje og blått lys over huden hans, som er naturlig opplyst med et subtilt hint av svette. Uttrykket hans er i utgangspunktet rolig, men med en underliggende spenning, og han stirrer direkte fremover. Bak ham, i det dype mørket, strekker en skjelettaktig zombiehånd med råtnende kjøtt og skarpe klør seg uhyggelig ut fra mørket over skulderen hans. Den generelle stemningen er anspent og skremmende, gjengitt i en 8k filmatisk stil med fokus på dype skygger og skarpe kontraster fra lighterflammen."
+    },
+    "category": {
+      "en": "Horror",
+      "no": "Skrekk"
+    },
+    "subcategory": {
+      "en": "Creatures",
+      "no": "Vesener"
+    },
+    "tags": ["zombie", "hand", "horror", "undead", "cinematic"],
+    "summary": {
+      "en": "Horror portrait with zombie hand, dramatic lighting.",
+      "no": "Skrekkportrett med zombiehånd, dramatisk lyssetting."
+    }
+  },
+  {
+    "id": "horror_glowing_eyes_woman",
+    "title": {
+      "en": "Horror – Glowing Predator Eyes",
+      "no": "Skrekk – Glødende rovdyrøyne"
+    },
+    "prompt": {
+      "en": "A cinematic horror portrait mode. The woman from the uploaded reference image, with her blonde hair, light eyes, and distinct facial features, is accurately preserved. She is holding a lit lighter close to her face, the flame casting dramatic orange and blue light across her skin, which is naturally illuminated with a subtle hint of sweat. Her expression is initially calm, but with an underlying tension, staring directly forward. Behind her, in the deep darkness, a pair of glowing, predatory eyes watches from the deep darkness, with just a hint of a monstrous silhouette behind them. The overall mood is tense and frightening, rendered in an 8k cinematic style with a focus on deep shadows and sharp contrasts from the lighter's flame.",
+      "no": "Et filmatisk skrekkportrett. Kvinnen fra det opplastede referansebildet, med blondt hår, lyse øyne og tydelige ansiktstrekk, er nøyaktig bevart. Hun holder en tent lighter nær ansiktet, flammen kaster dramatisk oransje og blått lys over huden hennes, som er naturlig opplyst med et subtilt hint av svette. Uttrykket hennes er i utgangspunktet rolig, men med en underliggende spenning, og hun stirrer direkte fremover. Bak henne, i det dype mørket, ser et par glødende, rovdyrøyne fra dypet, med bare et hint av en monstrøs silhuett bak dem. Den generelle stemningen er anspent og skremmende, gjengitt i en 8k filmatisk stil med fokus på dype skygger og skarpe kontraster fra lighterflammen."
+    },
+    "category": {
+      "en": "Horror",
+      "no": "Skrekk"
+    },
+    "subcategory": {
+      "en": "Subtle Horror",
+      "no": "Subtil skrekk"
+    },
+    "tags": ["eyes", "predator", "shadows", "horror", "cinematic"],
+    "summary": {
+      "en": "Horror portrait with glowing eyes in darkness, dramatic light.",
+      "no": "Skrekkportrett med glødende øyne i mørket, dramatisk lyssetting."
+    }
+  },
+  {
+    "id": "horror_terrified_reflection_man",
+    "title": {
+      "en": "Horror – Terrified Reflection",
+      "no": "Skrekk – Terrortrefleksjon"
+    },
+    "prompt": {
+      "en": "A cinematic horror portrait mode. The man from the uploaded reference image, with his beard, glasses, and distinct facial features, is accurately preserved. He is holding a lit lighter close to his face, the flame casting dramatic orange and blue light across his skin, which is naturally illuminated with a subtle hint of sweat. His expression is initially calm, but with an underlying tension, staring directly forward. Behind him, in the deep darkness, a distorted reflection of a terrified version of him in a shattered mirror fragment is held behind his head, partially visible. The overall mood is tense and frightening, rendered in an 8k cinematic style with a focus on deep shadows and sharp contrasts from the lighter's flame.",
+      "no": "Et filmatisk skrekkportrett. Mannen fra det opplastede referansebildet, med skjegg, briller og tydelige ansiktstrekk, er nøyaktig bevart. Han holder en tent lighter nær ansiktet, flammen kaster dramatisk oransje og blått lys over huden hans, som er naturlig opplyst med et subtilt hint av svette. Uttrykket hans er i utgangspunktet rolig, men med en underliggende spenning, og han stirrer direkte fremover. Bak ham, i det dype mørket, holdes en forvrengt refleksjon av en livredd versjon av ham selv i et knust speilfragment bak hodet hans, delvis synlig. Den generelle stemningen er anspent og skremmende, gjengitt i en 8k filmatisk stil med fokus på dype skygger og skarpe kontraster fra lighterflammen."
+    },
+    "category": {
+      "en": "Horror",
+      "no": "Skrekk"
+    },
+    "subcategory": {
+      "en": "Psychological Horror",
+      "no": "Psykologisk skrekk"
+    },
+    "tags": ["reflection", "mirror", "terror", "psychological", "cinematic"],
+    "summary": {
+      "en": "Horror portrait with terrified reflection, shattered mirror.",
+      "no": "Skrekkportrett med livredd refleksjon, knust speil."
+    }
+  },
+  {
+    "id": "horror_skeletal_touch_woman",
+    "title": {
+      "en": "Horror – Skeletal Touch",
+      "no": "Skrekk – Skjelettberøring"
+    },
+    "prompt": {
+      "en": "A cinematic horror portrait mode. The woman from the uploaded reference image, with her blonde hair, light eyes, and distinct facial features, is accurately preserved. She is holding a lit lighter close to her face, the flame casting dramatic orange and blue light across her skin, which is naturally illuminated with a subtle hint of sweat. Her expression is initially calm, but with an underlying tension, staring directly forward. Behind her, in the deep darkness, a hand with long, skeletal fingers lightly touches her shoulder from the darkness, leaving a chilling, ghostly mark. The overall mood is tense and frightening, rendered in an 8k cinematic style with a focus on deep shadows and sharp contrasts from the lighter's flame.",
+      "no": "Et filmatisk skrekkportrett. Kvinnen fra det opplastede referansebildet, med blondt hår, lyse øyne og tydelige ansiktstrekk, er nøyaktig bevart. Hun holder en tent lighter nær ansiktet, flammen kaster dramatisk oransje og blått lys over huden hennes, som er naturlig opplyst med et subtilt hint av svette. Uttrykket hennes er i utgangspunktet rolig, men med en underliggende spenning, og hun stirrer direkte fremover. Bak henne, i det dype mørket, berører en hånd med lange, skjelettaktige fingre lett skulderen hennes fra mørket, og etterlater et isnende, spøkelsesaktig merke. Den generelle stemningen er anspent og skremmende, gjengitt i en 8k filmatisk stil med fokus på dype skygger og skarpe kontraster fra lighterflammen."
+    },
+    "category": {
+      "en": "Horror",
+      "no": "Skrekk"
+    },
+    "subcategory": {
+      "en": "Paranormal",
+      "no": "Paranormalt"
+    },
+    "tags": ["skeletal", "touch", "ghost", "horror", "cinematic"],
+    "summary": {
+      "en": "Horror portrait with skeletal hand touch, dramatic lighting.",
+      "no": "Skrekkportrett med skjelettaktig berøring, dramatisk lyssetting."
+    }
+  },
+  {
+    "id": "horror_weeping_child_man",
+    "title": {
+      "en": "Horror – Weeping Ghost Child",
+      "no": "Skrekk – Gråtende Spøkelsesbarn"
+    },
+    "prompt": {
+      "en": "A cinematic horror portrait mode. The man from the uploaded reference image, with his beard, glasses, and distinct facial features, is accurately preserved. He is holding a lit lighter close to his face, the flame casting dramatic orange and blue light across his skin, which is naturally illuminated with a subtle hint of sweat. His expression is initially calm, but with an underlying tension, staring directly forward. Behind him, in the deep darkness, a ghostly, translucent child's face, weeping silently, is partially visible through the darkness behind him. The overall mood is tense and frightening, rendered in an 8k cinematic style with a focus on deep shadows and sharp contrasts from the lighter's flame.",
+      "no": "Et filmatisk skrekkportrett. Mannen fra det opplastede referansebildet, med skjegg, briller og tydelige ansiktstrekk, er nøyaktig bevart. Han holder en tent lighter nær ansiktet, flammen kaster dramatisk oransje og blått lys over huden hans, som er naturlig opplyst med et subtilt hint av svette. Uttrykket hans er i utgangspunktet rolig, men med en underliggende spenning, og han stirrer direkte fremover. Bak ham, i det dype mørket, er et spøkelsesaktig, gjennomsiktig barneansikt, som gråter stille, delvis synlig gjennom mørket bak ham. Den generelle stemningen er anspent og skremmende, gjengitt i en 8k filmatisk stil med fokus på dype skygger og skarpe kontraster fra lighterflammen."
+    },
+    "category": {
+      "en": "Horror",
+      "no": "Skrekk"
+    },
+    "subcategory": {
+      "en": "Paranormal",
+      "no": "Paranormalt"
+    },
+    "tags": ["ghost", "child", "weeping", "horror", "cinematic"],
+    "summary": {
+      "en": "Horror portrait with weeping ghost child, dramatic light.",
+      "no": "Skrekkportrett med gråtende spøkelsesbarn, dramatisk lyssetting."
+    }
+  },
+  {
+    "id": "horror_raven_shoulder_woman",
+    "title": {
+      "en": "Horror – Raven on Shoulder",
+      "no": "Skrekk – Ravn på skulder"
+    },
+    "prompt": {
+      "en": "A cinematic horror portrait mode. The woman from the uploaded reference image, with her blonde hair, light eyes, and distinct facial features, is accurately preserved. She is holding a lit lighter close to her face, the flame casting dramatic orange and blue light across her skin, which is naturally illuminated with a subtle hint of sweat. Her expression is initially calm, but with an underlying tension, staring directly forward. Behind her, in the deep darkness, a single, unblinking raven with glowing red eyes is perched silently on her shoulder, emerging from the deep shadows. The overall mood is tense and frightening, rendered in an 8k cinematic style with a focus on deep shadows and sharp contrasts from the lighter's flame.",
+      "no": "Et filmatisk skrekkportrett. Kvinnen fra det opplastede referansebildet, med blondt hår, lyse øyne og tydelige ansiktstrekk, er nøyaktig bevart. Hun holder en tent lighter nær ansiktet, flammen kaster dramatisk oransje og blått lys over huden hennes, som er naturlig opplyst med et subtilt hint av svette. Uttrykket hennes er i utgangspunktet rolig, men med en underliggende spenning, og hun stirrer direkte fremover. Bak henne, i det dype mørket, sitter en enslig, ublunkende ravn med glødende røde øyne stille på skulderen hennes, og dukker opp fra de dype skyggene. Den generelle stemningen er anspent og skremmende, gjengitt i en 8k filmatisk stil med fokus på dype skygger og skarpe kontraster fra lighterflammen."
+    },
+    "category": {
+      "en": "Horror",
+      "no": "Skrekk"
+    },
+    "subcategory": {
+      "en": "Gothic & Eerie",
+      "no": "Gotisk og uhyggelig"
+    },
+    "tags": ["raven", "bird", "gothic", "horror", "cinematic"],
+    "summary": {
+      "en": "Horror portrait with raven on shoulder, dramatic lighting.",
+      "no": "Skrekkportrett med ravn på skulder, dramatisk lyssetting."
+    }
   }
 ]
